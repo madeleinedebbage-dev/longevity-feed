@@ -1,0 +1,129 @@
+# ---- Longevity & wellness feed config ----
+# Toggle publishers on/off with `enabled`. Add any publisher by dropping in its RSS URL.
+# TIP: open each feed URL in a browser once to confirm it loads. Publishers change
+# RSS URLs sometimes, and a dead one just gets skipped (with a warning in the log).
+
+max_age_days: 30        # drop articles older than this
+max_items: 300          # cap on stored articles
+require_keyword: true   # if false, everything from the feeds is kept
+
+# ---- Summaries ----
+# mode: extractive -> free, no API key. Picks the 1-2 most "finding-like" sentences from the abstract.
+# mode: claude     -> short plain-language summaries written by Claude. Needs ANTHROPIC_API_KEY
+#                     env var (and `pip install anthropic`). Only new articles get summarized,
+#                     and it falls back to extractive if anything fails.
+summary:
+  mode: extractive
+  sentences: 2            # extractive mode: how many sentences
+  max_chars: 320
+  model: claude-haiku-5-5 # claude mode only
+  max_new_per_run: 60     # claude mode only: cap per run to keep costs tiny
+
+# ---- Tracked topics ----
+# Articles mentioning any term get a topic tag (filterable on the page) and are ALWAYS kept,
+# even if they come from a general journal feed. Each topic also gets its own Europe PMC search.
+topics:
+  GLP-1:
+    - GLP-1
+    - GLP-1 receptor agonist
+    - semaglutide
+    - tirzepatide
+    - liraglutide
+    - dulaglutide
+    - Ozempic
+    - Wegovy
+    - Mounjaro
+  Rapamycin:
+    - rapamycin
+    - sirolimus
+    - rapalog
+    - mTOR inhibitor
+  Metformin:
+    - metformin
+  Taurine:
+    - taurine
+
+# General longevity/wellness keywords (used to filter general-purpose journals)
+keywords:
+  - longevity
+  - aging
+  - ageing
+  - lifespan
+  - healthspan
+  - senescence
+  - senescent
+  - senolytic
+  - geroscience
+  - caloric restriction
+  - dietary restriction
+  - mTOR
+  - NAD+
+  - epigenetic clock
+  - biological age
+  - telomere
+  - autophagy
+  - sirtuin
+  - mitochondrial dysfunction
+  - sleep
+  - exercise
+  - nutrition
+  - wellness
+  - inflammaging
+
+publishers:
+  - name: Nature Portfolio
+    enabled: true
+    feeds:
+      - name: Nature Aging
+        url: https://www.nature.com/nataging.rss
+        on_topic: true   # every article counts, no keyword filter
+      - name: Nature Metabolism
+        url: https://www.nature.com/natmetab.rss
+      - name: Nature Medicine
+        url: https://www.nature.com/nm.rss
+
+  - name: Cell Press
+    enabled: true
+    feeds:
+      - name: Cell Metabolism
+        url: https://www.cell.com/cell-metabolism/current.rss
+      - name: Cell Reports
+        url: https://www.cell.com/cell-reports/current.rss
+      - name: Trends in Endocrinology & Metabolism
+        url: https://www.cell.com/trends/endocrinology-metabolism/current.rss
+
+  - name: Wiley
+    enabled: true
+    feeds:
+      - name: Aging Cell
+        url: https://onlinelibrary.wiley.com/feed/14749726/most-recent
+        on_topic: true
+
+  - name: Springer
+    enabled: true
+    feeds:
+      - name: GeroScience
+        url: https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=11357&query=
+        on_topic: true
+
+  - name: eLife
+    enabled: true
+    feeds:
+      - name: eLife (all)
+        url: https://elifesciences.org/rss/recent.xml
+
+  - name: Preprints
+    enabled: false
+    feeds:
+      - name: bioRxiv (Genetics)
+        url: http://connect.biorxiv.org/biorxiv_xml.php?subject=genetics
+      - name: bioRxiv (Physiology)
+        url: http://connect.biorxiv.org/biorxiv_xml.php?subject=physiology
+
+  # Europe PMC is a search API (not RSS), so it's a reliable catch-all across publishers.
+  # Per-topic queries (GLP-1, rapamycin, metformin, taurine) are added automatically from `topics`.
+  - name: Europe PMC
+    enabled: true
+    europepmc_queries:
+      - name: Longevity (Europe PMC)
+        query: '(longevity OR healthspan OR geroscience) AND (PUB_TYPE:"Journal Article") AND SRC:MED'

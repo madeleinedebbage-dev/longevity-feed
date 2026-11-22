@@ -1,0 +1,5 @@
+feedparser>=6.0
+requests>=2.31
+PyYAML>=6.0
+# Only needed if summary.mode is "claude" in config.yaml:
+anthropic>=0.40
