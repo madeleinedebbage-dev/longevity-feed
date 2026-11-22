@@ -355,7 +355,14 @@ def main():
     for it in new_items:
         archive.setdefault(it["id"], it)  # dedupe by id/DOI
 
-    cutoff = datetime.now(timezone.utc) - timedelta(days=max_age)
+    # Journals often report a future *issue* date (e.g. a Jan 2027 issue published online today).
+    # Cap every date at "now" so articles sort by when they actually appeared.
+    now = datetime.now(timezone.utc)
+    for a in archive.values():
+        if datetime.fromisoformat(a["date"]) > now:
+            a["date"] = now.isoformat()
+
+    cutoff = now - timedelta(days=max_age)
     articles = [a for a in archive.values() if datetime.fromisoformat(a["date"]) >= cutoff]
     articles.sort(key=lambda a: a["date"], reverse=True)
     articles = articles[: cfg.get("max_items", 300)]
