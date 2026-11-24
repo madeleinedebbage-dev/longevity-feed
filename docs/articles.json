@@ -1,5 +1,79 @@
 [
  {
+  "id": "10.1007/978-1-0716-5747-8_6",
+  "title": "Induced Dimerization Tools to Deplete Specific Phosphatidylinositol Phosphates.",
+  "link": "https://doi.org/10.1007/978-1-0716-5747-8_6",
+  "abstract": "Chemical dimerization systems have been used to drive acute depletion of polyphosphoinositides (PPIn). They do so by inducing subcellular localization of enzymes that catabolize the PPIn. By using this approach, all seven PPIn can be depleted in living cells and in real time. The rapid permeation of dimerizer agents and the specific expression of recruiter proteins confer great spatial and temporal resolution with minimal cell perturbation. In this chapter, we provide detailed instructions to monitor and induce depletion of PPIn in live cells.",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-24T14:52:23.875473+00:00",
+  "tags": [],
+  "topics": [],
+  "summary_short": "Chemical dimerization systems have been used to drive acute depletion of polyphosphoinositides (PPIn). They do so by inducing subcellular localization of enzymes that catabolize the PPIn.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.36401/jipo-26-13",
+  "title": "Impact of Concomitant Medication Use on Treatment Outcomes in Patients with Renal Cell Carcinoma Treated with Immune Checkpoint Inhibitors.",
+  "link": "https://doi.org/10.36401/jipo-26-13",
+  "abstract": "Introduction Concomitant medications such as statins, aspirin, and metformin may modulate immune responses and influence outcomes with immune checkpoint inhibitors (ICIs). Their impact in advanced renal cell carcinoma (aRCC) remains unclear. Methods We conducted a retrospective study of 400 patients with aRCC treated with ICIs at Winship Cancer Institute of Emory University from 2018 to 2023. Baseline medication use, defined as active prescription at the time of ICI initiation, was documented. Clinical end points included overall survival (OS), progression-free survival (PFS), and disease control rate (DCR). Kaplan-Meier estimates, Cox proportional hazards models, and multivariable regression were used to assess associations between medication use and outcomes. Results At baseline, 42.5% of patients were on statins, 34.5% on aspirin, and 12.3% on metformin. Median follow-up was 43.0 months. Statin use was associated with improved DCR (odds ratio, 1.85; p = 0.008), with a positive trend observed for PFS (hazard ratio [HR], 0.81; p = 0.071) in univariable analysis. However, no significant independent associations were observed in multivariable models for overall survival (HR, 0.92; p = 0.629), PFS (HR, 0.90; p = 0.410), or DCR (odds ratio, 1.48; p = 0.119). Aspirin and metformin use were not significantly associated with outcomes in univariable analyses and were excluded from multivariable models. Conclusion In this large real-world cohort, concomitant statin, aspirin, and metf",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-24T14:52:23.875473+00:00",
+  "tags": [],
+  "topics": [
+   "Metformin"
+  ],
+  "summary_short": "Statin use was associated with improved DCR (odds ratio, 1.85; p = 0.008), with a positive trend observed for PFS (hazard ratio [HR], 0.81; p = 0.071) in univariable analysis. Aspirin and metformin use were not significantly associated with outcomes in univariable analyses and were excluded from multivariable models.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1007/s11357-026-02678-x",
+  "title": "Motoric cognitive risk syndrome identifies older adults at risk of functional decline in rural South Africa",
+  "link": "https://link.springer.com/article/10.1007/s11357-026-02678-x",
+  "abstract": "Background Functional decline and dementia are rising rapidly in sub-Saharan Africa. Motoric cognitive risk (MCR) syndrome, characterized by slow gait and subjective memory complaints, may offer an accessible marker of vulnerability. This study aimed to estimate MCR prevalence and incidence, examine longitudinal motor\u2013cognitive phenotype changes, and assess associations with functional decline and mortality among older South Africans. We analyzed 2163 adults aged \u2265 60 years from the Health and Aging in Africa Longitudinal Study of an INDEPTH community in South Africa (HAALSI) cohort (2014\u20132022), classified as healthy, memory-only, gait-only, and MCR. We compared phenotypes at baseline and an approximately 7-year follow-up (including suspected dementia). Logistic and Cox regression models evaluated associations with worsening activities of daily living (ADLs), grip strength decline, and mortality, with death included as a separate outcome in a complementary multinomial analysis. Baseline MCR prevalence was 5.4%, with an incidence rate of 9.79 per 1000 person-years (95% CI 7.44\u201312.66). Transitions were dynamic: 23.9% of MCR participants reverted to the healthy phenotype over 7 years, while 2.6% developed suspected dementia. MCR was associated with worsening ADLs after full adjustment (OR = 2.24, 95% CI 1.21 to 4.12, p = 0.029), whereas memory-only and gait-only phenotypes were not. No phenotype was significantly associated with mortality or grip strength decline after adjustmen",
+  "journal": "GeroScience",
+  "publisher": "Springer",
+  "date": "2026-11-24T00:00:00+00:00",
+  "tags": [
+   "aging"
+  ],
+  "topics": [],
+  "summary_short": "MCR was associated with worsening ADLs after full adjustment (OR = 2.24, 95% CI 1.21 to 4.12, p = 0.029), whereas memory-only and gait-only phenotypes were not. No phenotype was significantly associated with mortality or grip strength decline after adjustmen",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1007/s11357-026-02633-w",
+  "title": "Association of sleep patterns with organ aging: a large community-based study",
+  "link": "https://link.springer.com/article/10.1007/s11357-026-02633-w",
+  "abstract": "Sleep plays an essential role in biological processes, but its relationship with biological aging is under-explored. We examined the relationship between sleep patterns and both organ age gaps and accelerated organ aging. This study included 247,697 participants without major chronic disease, from the UK Biobank (mean age: 55.20 \u00b1 8.09). Eight organ system-specific ages (cardiovascular, pulmonary, hepatic, renal, musculoskeletal, immune, metabolic, and brain) were constructed using machine learning, incorporating biomarker, physiological, anthropometric, and neuroimaging data. Organ-specific age gaps (the difference between estimated age and chronological age) were calculated, and accelerated organ aging was defined as an organ age gap exceeding the 95th percentile. Sleep patterns were self-reported at baseline, comprising sleep duration, chronotype, insomnia, snoring, and daytime sleepiness, and were classified into healthy, intermediate, and poor. Having a poor compared to a healthy sleep pattern was related to significantly higher organ-specific age gaps for all but one organ (specifically pulmonary, hepatic, renal, musculoskeletal, immune, metabolic, and brain), and was associated with faster pulmonary (OR 1.251, 95%CI: 1.116\u20131.404), hepatic (OR 1.382, 95%CI: 1.235\u20131.546), musculoskeletal (OR 1.708, 95%CI: 1.491\u20131.957), immune (OR 1.428, 95%CI: 1.292\u20131.579), metabolic (OR 1.659, 95%CI: 1.477\u20131.864), and brain (OR 1.592, 95%CI: 1.132\u20132.240) aging, as well as related to sig",
+  "journal": "GeroScience",
+  "publisher": "Springer",
+  "date": "2026-11-24T00:00:00+00:00",
+  "tags": [
+   "aging",
+   "sleep"
+  ],
+  "topics": [],
+  "summary_short": "Having a poor compared to a healthy sleep pattern was related to significantly higher organ-specific age gaps for all but one organ (specifically pulmonary, hepatic, renal, musculoskeletal, immune, metabolic, and brain), and was associated with faster pulmonary (OR 1.251, 95%CI: 1.116\u20131.404), hepatic (OR 1.382, 95%CI\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1007/s11357-026-02677-y",
+  "title": "Obesity impairs ovarian reserve and follicular dynamics in rodents: a systematic review and meta-analysis",
+  "link": "https://link.springer.com/article/10.1007/s11357-026-02677-y",
+  "abstract": "Obesity and obesity-related metabolic dysfunction have been proposed to accelerate ovarian aging, yet their stage-specific effects on ovarian reserve remain unclear. We systematically evaluated follicular abundance in rodent models of diet-induced obesity (DIO) and genetic obesity. We searched Web of Science, PubMed/MEDLINE, and Scopus through May 2026. We synthesized controlled studies reporting quantitative ovarian reserve-related outcomes using multilevel random-effects models with standardized mean differences (SMD; Hedges\u2019 g ). Heterogeneity, prediction intervals, subgroup/meta-regression analyses, sensitivity analyses, and small-study effects were assessed. Fifty-two studies were included, of which 42 contributed to quantitative synthesis. DIO reduced primordial follicle count (24 studies; 34 effect sizes; SMD = \u2212 1.54; 95% CI \u2212 2.56 to \u2212 0.52; p = 0.003), remaining significant after outlier exclusion (SMD = \u2212 1.05; 95% CI \u2212 1.89 to \u2212 0.20; p = 0.015). Secondary follicle count was also reduced (SMD = \u2212 1.05; 95% CI \u2212 1.90 to \u2212 0.21; p = 0.014), whereas follicular atresia increased (SMD = 3.15; 95% CI 2.03 to 4.27; p &lt; 0.001). No associations were detected for DIO and primary or antral follicles or corpus luteum count. Genetic obesity was also associated with lower primordial (SMD = \u2212 2.32; 95% CI \u2212 3.73 to \u2212 0.91; p = 0.001) and primary follicle counts (SMD = \u2212 2.61; 95% CI \u2212 3.87 to \u2212 1.36; p &lt; 0.001). Overall, obesity was associated with reduced primordial and s",
+  "journal": "GeroScience",
+  "publisher": "Springer",
+  "date": "2026-11-24T00:00:00+00:00",
+  "tags": [
+   "aging"
+  ],
+  "topics": [],
+  "summary_short": "Genetic obesity was also associated with lower primordial (SMD = \u2212 2.32; 95% CI \u2212 3.73 to \u2212 0.91; p = 0.001) and primary follicle counts (SMD = \u2212 2.61; 95% CI \u2212 3.87 to \u2212 1.36; p &lt; 0.001). Overall, obesity was associated with reduced primordial and s",
+  "summary_source": "extractive"
+ },
+ {
   "id": "10.2337/dc26-1059",
   "title": "A Phase 2, Double-Blind, Randomized, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Acmopatide (CT-868), a Fully Biased GLP-1/GIP Receptor Agonist, in Adults With Type 1 Diabetes and Overweight or Obesity.",
   "link": "https://doi.org/10.2337/dc26-1059",
@@ -131,6 +205,55 @@
   ],
   "topics": [],
   "summary_short": "Greater CRF-WMH pattern expression was associated with younger age and male sex. Our findings suggest that having greater CRF may help to maintain cerebrovascular health in older adults as reflected in its associ",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1007/s11357-026-02597-x",
+  "title": "Aging impairs CX3CL1 neuroprotection in \u03b1-synuclein-induced Parkinson\u2019s disease pathology",
+  "link": "https://link.springer.com/article/10.1007/s11357-026-02597-x",
+  "abstract": "Parkinson\u2019s disease (PD), the second most prevalent movement disorder, is pathologically defined by the accumulation of \u03b1-synuclein (\u03b1-syn), loss of dopaminergic neuron and inflammation in the substantia nigra pars compacta. The neuronally expressed chemokine CX3CL1 (fractalkine, FKN), when delivered as the soluble form (sFKN) via AAV-mediated overexpression, protects dopamine neurons in several animal models of PD. Since aging is a major risk factor for PD, we examined the effects of sFKN overexpression in both young and aged PD models. To model PD, young (3-month) and aged (15-month) male F344 rats received unilateral intracranial injections of recombinant adeno-associated virus serotype 9 (rAAV9) encoding either human wild-type \u03b1-synuclein (\u03b1-syn) or green fluorescent protein (GFP). Motor performance was evaluated at baseline, 1 month, and 2 months post-injection. Behavioral deficits and neuropathological changes were compared across treatment and age groups. CX3CL1 involvement in PD-related neuroinflammation was assessed using immunohistochemistry and biochemical analyses and bulk RNA-seq was used to characterize transcriptomic changes. We found that sFKN rescued both motor deficits and dopaminergic neuron loss in young PD animals but not in aged animals. Analysis of the transcriptomics revealed age-dependent alterations in inflammatory, immune, and neurogenic signaling in response to sFKN treatment. In conclusion, while sFKN effectively ameliorates behavioral deficits an",
+  "journal": "GeroScience",
+  "publisher": "Springer",
+  "date": "2026-11-23T00:00:00+00:00",
+  "tags": [
+   "aging"
+  ],
+  "topics": [],
+  "summary_short": "The neuronally expressed chemokine CX3CL1 (fractalkine, FKN), when delivered as the soluble form (sFKN) via AAV-mediated overexpression, protects dopamine neurons in several animal models of PD. We found that sFKN rescued both motor deficits and dopaminergic neuron loss in young PD animals but not in aged animals.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1007/s11357-026-02662-5",
+  "title": "Molecular PET imaging of cellular senescence: from current tracers to emerging biomarker-driven strategies",
+  "link": "https://link.springer.com/article/10.1007/s11357-026-02662-5",
+  "abstract": "Cellular senescence is a dynamic and multifaceted biological process that contributes to aging and a wide spectrum of age-related diseases, including neurodegenerative disorders. Despite increasing recognition of its pathological significance, the ability to quantify senescence noninvasively in vivo remains a major limitation, particularly for longitudinal studies and therapeutic evaluation. Positron emission tomography (PET) offers a powerful platform to address this gap by enabling quantitative imaging of molecular processes in living systems. Recent advances have led to the development of PET radiotracers targeting senescence-associated features, including lysosomal \u03b2-galactosidase activity, cell-surface markers (uPAR), and intracellular accumulation products (lipofuscin). These first-generation approaches have established proof-of-concept for imaging senescence biology; however, they primarily reflect downstream hallmarks and have been largely evaluated in non-central nervous system (CNS) models, while their ability to quantify senescent-cell burden in naturally aged tissues and the CNS remains insufficiently established. Emerging evidence motivates the study of biomarker-driven and pathway-oriented imaging strategies that may provide complementary information about senescence-associated molecular mechanisms without necessarily offering greater biological specificity. Advances in senescence biology, including curated gene sets and insights from senotherapeutic interventio",
+  "journal": "GeroScience",
+  "publisher": "Springer",
+  "date": "2026-11-23T00:00:00+00:00",
+  "tags": [
+   "aging",
+   "senescence",
+   "senescent"
+  ],
+  "topics": [],
+  "summary_short": "Cellular senescence is a dynamic and multifaceted biological process that contributes to aging and a wide spectrum of age-related diseases, including neurodegenerative disorders. Despite increasing recognition of its pathological significance, the ability to quantify senescence noninvasively in vivo remains a major\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1007/s11011-026-02009-1",
+  "title": "Neuroprotective effects of metformin on cognition, mTOR, and inflammatory cytokines in a scopolamine-induced cognitive impairment model in ovariectomized rats.",
+  "link": "https://doi.org/10.1007/s11011-026-02009-1",
+  "abstract": "Metformin, with its antioxidant, anti-inflammatory, and neuroprotective properties, exhibits protective activity on the central nervous system (CNS). This study examined metformin's impact on anxiety-related cognitive deficits and hippocampal level of cytokines in Alzheimer's (AD)-like and ovariectomized rats. Eighty female Wistar rats were divided into eight groups: control, sham, ovariectomy (ovx), scopolamine (sco), ovariectomy +scopolamine (ovx + sco), metformin + scopolamine (met + sco), metformin + ovariectomy (met + ovx), and metformin + ovariectomy + scopolamine (met + ovx+sco). Morris Water Maze (MWM), Elevated Plus Maze (EPM) tests, Nissl and Thioflavin staining, ELISA, and Western Blot were used. In all groups, Metformin was administered before intraperitoneal injection of scopolamine and before ovariectomy surgery.MWM behavioral test results showed that metformin improved spatial memory in impaired groups (SCO, OVX + SCO and OVX). The EPM behavioral test indicated that metformin could improve the increased anxiety levels found in the impaired groups. Nissl staining revealed the neuronal damage in the rats of the impaired group. Thioflavin staining showed that metformin reduced the number of beta-amyloid plaques in the treatment groups. ELISA results demonstrated increased the levels of cytokines (TNF-\u03b1, IL-1\u03b2, and IL-6) in the impaired groups, and metformin reduced these levels. Western blot results showed increased mTOR expression in the affected groups, which me",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-23T00:00:00+00:00",
+  "tags": [
+   "mtor"
+  ],
+  "topics": [
+   "Metformin"
+  ],
+  "summary_short": "ELISA results demonstrated increased the levels of cytokines (TNF-\u03b1, IL-1\u03b2, and IL-6) in the impaired groups, and metformin reduced these levels. Western blot results showed increased mTOR expression in the affected groups, which me",
   "summary_source": "extractive"
  },
  {
@@ -998,6 +1121,23 @@
   "summary_source": "extractive"
  },
  {
+  "id": "10.1093/mrcr/rxag117",
+  "title": "Most severe TAFRO syndrome without proven iMCD responded to combination therapy with glucocorticoids, tocilizumab, rituximab and sirolimus: A Case Report.",
+  "link": "https://doi.org/10.1093/mrcr/rxag117",
+  "abstract": "TAFRO syndrome is a systemic inflammatory disease without established treatment strategy. Treatment generally involves immunosuppressive therapy, primarily with glucocorticoids and tocilizumab. A 45-year-old woman initially developed cough and fever, then worsening generalized fatigue. After failing to respond to antibiotics and becoming anuric, hemodialysis was initiated. The patient had marked pleural and abdominal effusions, hepatosplenomegaly, thrombocytopenia, markedly elevated inflammatory markers, hypoalbuminemia, renal dysfunction, and coagulation abnormalities. Bone marrow examination revealed megakaryocytosis and reticulofibrosis, so she met the diagnostic criteria for TAFRO syndrome. Although a lymph node biopsy could not be performed, the patient met other diagnostic criteria for idiopathic multicentric Castleman disease, and we diagnosed TAFRO with probable idiopathic multicentric Castleman disease. She also developed disseminated intravascular coagulation and was identified with the most severe form of TAFRO syndrome (severity Grade 5). High-dose glucocorticoids were started with tocilizumab and rituximab. However, there was little improvement in the patient's general condition, so we added sirolimus, an mTOR inhibitor. After that, a marked clinical response was observed and dialysis was discontinued. Remission was achieved through the continuation of glucocorticoids, tocilizumab, rituximab, and sirolimus. Although an increased level of IL-6 might be involved in",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-22T00:00:00+00:00",
+  "tags": [
+   "mtor"
+  ],
+  "topics": [
+   "Rapamycin"
+  ],
+  "summary_short": "Although an increased level of IL-6 might be involved in",
+  "summary_source": "extractive"
+ },
+ {
   "id": "10.1007/s40199-026-00673-3",
   "title": "Recognition and management of semaglutide overdose and intoxi\u200bcation: a narrative review for clinicians.",
   "link": "https://doi.org/10.1007/s40199-026-00673-3",
@@ -1026,6 +1166,78 @@
   ],
   "topics": [],
   "summary_short": "Background The use of electrical pulse stimulation (EPS) as a method to induce contractions in cultured skeletal muscle has experienced rapid growth in recent years. Despite evidence demonstrating its utility in replicating some acute and chronic adaptations to exercise observed in vivo, there is a lack of evidence\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1016/j.jtct.2026.11.042",
+  "title": "Minimally genotoxic conditioning increases donor chimerism in a mismatched murine transplant model for sickle cell disease.",
+  "link": "https://doi.org/10.1016/j.jtct.2026.11.042",
+  "abstract": "Sickle cell disease (SCD) causes severe complications, organ damage, and premature death, with hematopoietic cell transplantation (HCT) being the only curative option. Myeloablative conditioning (MAC) is used for traditional allogeneic HCT and autologous gene therapies, but it is often too toxic for adults with organ damage. Non-myeloablative (NMA) haploidentical HCT can expand the donor pool and be applied to patients with organ impairment. Still, two major concerns face NMA haploidentical HCT: graft failure and recipient-derived hematologic malignancies. Therefore, our aim has shifted towards maximizing donor chimerism levels. This work explores non-genotoxic antibody-based conditioning in a mismatched murine HCT model for SCD. We targeted two cell-surface receptors: CD45, a pan-hematopoietic cell marker, and CD117, a receptor expressed mainly on hematopoietic stem and progenitor cells. Saporin (sap), the drug payload, is released intracellularly, halting protein synthesis and inducing cell death. Our base conditioning regimen also included post-transplant cyclophosphamide (PT-Cy) and sirolimus. We utilized an allogeneic murine HCT model in which female donor Balb/c bone marrow (BM) cells were transplanted into female C57Bl/6J recipients. Peripheral blood (PB) analysis showed that conjugated antibodies successfully induced mixed chimerism, whereas the naked version failed. Long-term follow-up (24 weeks) showed that only CD45-sap exhibited an upward trajectory of PB total, B",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-21T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "Rapamycin"
+  ],
+  "summary_short": "Sickle cell disease (SCD) causes severe complications, organ damage, and premature death, with hematopoietic cell transplantation (HCT) being the only curative option. Myeloablative conditioning (MAC) is used for traditional allogeneic HCT and autologous gene therapies, but it is often too toxic for adults with organ\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1016/j.jpedsurg.2026.163602",
+  "title": "Retrospective cohort analysis of spontaneous regression in pediatric lymphatic malformations and its role in modern multidisciplinary approach.",
+  "link": "https://doi.org/10.1016/j.jpedsurg.2026.163602",
+  "abstract": "Background Lymphatic malformations (LMs) often require active treatment, including sclerotherapy, surgery, or sirolimus. However, some lesions regress spontaneously, and factors associated with spontaneous regression remain incompletely undefined. In this study, we aimed to investigate the incidence, timing, and predictors of spontaneous regression in pediatric LMs. Methods We retrospectively reviewed 118 patients diagnosed with LMs before 20 years of age and by 2025 who had documented outpatient follow-up and/or treatment at our institution between January 2007 and April 2026. Spontaneous regression was defined as a >50% reduction in lesion volume without standard LMs-directed treatment, with no clinically significant symptoms, only minimal residual cosmetic concern, and no active treatment considered necessary; regression was confirmed by MRI in all cases. Logistic regression was performed to identify associated factors. Cumulative incidence of spontaneous regression was estimated using a competing-risks approach, with initiation of LMs-directed treatment before regression as a competing event. Results Spontaneous regression occurred in 43 of 118 patients (36.4%), including 33 of 59 macrocystic lesions (55.9%) versus 10 of 59 non-macrocystic lesions (16.9%). Macrocystic morphology remained significantly associated with regression after multivariable adjustment (odds ratio, 5.11; 95% confidence interval, 1.94-13.45; p Conclusions Spontaneous regression occurred in a substant",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-21T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "Rapamycin"
+  ],
+  "summary_short": "However, some lesions regress spontaneously, and factors associated with spontaneous regression remain incompletely undefined. Macrocystic morphology remained significantly associated with regression after multivariable adjustment (odds ratio, 5.11; 95% confidence interval, 1.94-13.45; p Conclusions Spontaneous\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1080/00365521.2026.2766470",
+  "title": "Topical tacrolimus achieves clinical remission but only marginally delays onset of advanced therapy in chronic proctitis: a dual center retrospective cohort study.",
+  "link": "https://doi.org/10.1080/00365521.2026.2766470",
+  "abstract": "Background Topical tacrolimus (TT) is an off-label treatment for chronic refractory proctitis and may represent an alternative to advanced therapies, which can be limited by costs, systemic adverse effects, and patient preferences. However, evidence regarding its ability to delay escalation to advanced therapies is limited. Methods We conducted a retrospective cohort study at two Danish IBD centers and included all patients with ulcerative proctitis treated with TT between 2022 and 2025. Treatment efficacy was assessed by bowel movements and rectal bleeding before and after treatment. Remission was defined as Results Thirteen patients were included, receiving 17 courses of TT (duration 8 weeks) with a median follow-up of 644 days (IQR 447-779). Clinical remission at the end of treatment was achieved in 9 (53%) courses. Bowel movements decreased significantly in patients attaining remission (from 6 to 1 vs. 6 to 6, p = 0.01), as did the proportion of patients reporting rectal bleeding (78% to 0% vs. 75% to 50%, p = 0.009) and fecal calprotectin (465 mg/kg to 74 vs. 295 mg/kg to 1,470, p = 0.03). Mild adverse events were reported in 4 patients. Time to escalation to advanced therapy was median 31 days for patients attaining remission (IQR 0-174) vs. 0 (0-0) for non-remission ( p = 0.03). Only 2 (22%) TT ending in remission were not escalated to advanced therapies. Conclusion TT demonstrated short-term clinical efficacy and favorable safety in refractory chronic proctitis but on",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-21T00:00:00+00:00",
+  "tags": [],
+  "topics": [],
+  "summary_short": "Background Topical tacrolimus (TT) is an off-label treatment for chronic refractory proctitis and may represent an alternative to advanced therapies, which can be limited by costs, systemic adverse effects, and patient preferences. However, evidence regarding its ability to delay escalation to advanced therapies is\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.15403/jgld-6926",
+  "title": "Effects of Liraglutide as Add-on to Metformin on Hepatic Steatosis and Fibrosis in Patients with Prediabetes and MASLD: A Retrospective Cohort Study.",
+  "link": "https://doi.org/10.15403/jgld-6926",
+  "abstract": "Background and aims The coexistence of prediabetes and metabolic dysfunction-associated steatotic liver disease (MASLD) is common and accelerates metabolic and hepatic complications. This study evaluated the effects of liraglutide on hepatic steatosis and fibrosis in patients with prediabetes and MASLD. Methods This retrospective cohort study included 263 patients with prediabetes and MASLD who received either liraglutide plus metformin (liraglutide group, n=142) or metformin alone (control group, n=121) for 12 months. Primary outcomes were changes in controlled attenuation parameter (CAP), liver stiffness measurement (LSM), Fibrosis-4 (FIB-4) index, and non-alcoholic fatty liver disease fibrosis score (NFS). Secondary outcomes included anthropometric measurements, glycemic parameters, lipid profiles, and liver enzymes. Results After 12 months of treatment, CAP values decreased significantly in both groups (both p 0.05). The liraglutide group achieved significantly greater improvements in body weight, waist circumference, glycemic parameters [fasting plasma glucose (FPG), glycated hemoglobin (HbA1c), fasting insulin, homeostasis model assessment of insulin resistance (HOMA-IR)], triglycerides, and non-high-density lipoprotein (HDL) cholesterol compared to the control group (all p Conclusions In patients with prediabetes and MASLD, 12-month liraglutide as add-on therapy to metformin was associated with significant improvements in hepatic steatosis and liver stiffness measureme",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-21T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "GLP-1",
+   "Metformin"
+  ],
+  "summary_short": "The liraglutide group achieved significantly greater improvements in body weight, waist circumference, glycemic parameters [fasting plasma glucose (FPG), glycated hemoglobin (HbA1c), fasting insulin, homeostasis model assessment of insulin resistance (HOMA-IR)], triglycerides, and non-high-density lipoprotein (HDL)\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1186/s11671-026-05177-2",
+  "title": "Research progress and clinical prospects of sonodynamic therapy in cancer treatment.",
+  "link": "https://doi.org/10.1186/s11671-026-05177-2",
+  "abstract": "Sonodynamic therapy (SDT) uses ultrasound and a sensitizer to generate cytotoxic chemistry at depths inaccessible to most light-based treatments. Nanomaterial studies have broadened this idea from local reactive oxygen species (ROS) production to delivery, microenvironment remodeling, and immune priming, while published human studies remain small. This focused narrative review connects acoustic and sensitizer mechanisms to three interacting barriers: oxygen scarcity limits some ROS routes, glutathione-centered defenses buffer oxidative injury, and an immunosuppressive niche interrupts the passage from tumor injury to effective immunity. We compare representative oxygen-supplying, redox-active, and immunomodulatory platforms according to the mechanism and model tested and distinguish markers of regulated cell death from experiments that establish causal contribution. In animals, SDT with checkpoint blockade has controlled untreated lesions in selected models, but immune biomarkers, distant-lesion effects, and rechallenge protection are separate levels of evidence. Early glioma reports using 5-aminolevulinic acid or other porphyrin sensitizers provide tissue pharmacodynamic and safety observations alongside a small pilot with predominantly progressive disease; none establishes a survival benefit. Registered brain and non-CNS combination protocols extend the clinical questions without supplying outcomes. We argue for mechanism-matched platform design, measured target ultrasound ",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-21T00:00:00+00:00",
+  "tags": [],
+  "topics": [],
+  "summary_short": "Sonodynamic therapy (SDT) uses ultrasound and a sensitizer to generate cytotoxic chemistry at depths inaccessible to most light-based treatments. Nanomaterial studies have broadened this idea from local reactive oxygen species (ROS) production to delivery, microenvironment remodeling, and immune priming, while\u2026",
   "summary_source": "extractive"
  },
  {
@@ -1595,6 +1807,34 @@
   "tags": [],
   "topics": [],
   "summary_short": "Periodontitis is a highly prevalent oral disease that extends beyond local inflammation and tissue destruction to exert a profound influence on systemic health. With the growing burden of multimorbidity, where multiple systemic disorders frequently co-exist, periodontal management has become increasingly complex, yet\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1097/cm9.0000000000004209",
+  "title": "Comparison between fixed-dose combination pioglitazone-metformin and sitagliptin-metformin in patients with type 2 diabetes exhibiting poor glycemic control: A multicenter clinical trial.",
+  "link": "https://doi.org/10.1097/cm9.0000000000004209",
+  "abstract": "",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "Metformin"
+  ],
+  "summary_short": "",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1007/s40520-026-03479-0",
+  "title": "World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2026).",
+  "link": "https://doi.org/10.1007/s40520-026-03479-0",
+  "abstract": "",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [],
+  "topics": [],
+  "summary_short": "",
   "summary_source": "extractive"
  },
  {
@@ -3695,6 +3935,23 @@
   "summary_source": "extractive"
  },
  {
+  "id": "10.1016/j.bbrep.2026.102893",
+  "title": "Polyploidy is associated with enhanced S6K1-S6 signaling and improved tolerance to glucose starvation.",
+  "link": "https://doi.org/10.1016/j.bbrep.2026.102893",
+  "abstract": "Polyploidy, a condition characterized by the presence of more than two complete sets of chromosomes, is associated with cancer, diabetes, and aging. The mechanistic target of rapamycin complex 1 (mTORC1) is a central regulator of cellular growth, protein synthesis, and metabolism, and its dysregulation contributes to the progression of these diseases. However, the relationship between mTORC1 signaling and polyploidy remains poorly understood. In this study, we investigated the role of mTORC1 signaling in the generation and maintenance of polyploid cells. Polyploidy was induced in HEK293T cells using cytochalasin B and ZM447439 and evaluated through flow cytometric analysis of DNA content (greater than 4 N), multinucleation, increased cell size, and asynchronous cell cycle. Both treatments promoted polyploidy and were associated with increased phosphorylation of S6K1 and S6, without significantly altering the phosphorylation of 4E-BP1. Notably, pharmacological inhibition of S6 signaling using Torin1 or rapamycin significantly reduced the accumulation of polyploid cells induced by cytochalasin B and ZM447439. Furthermore, under glucose starvation, polyploid cells exhibited improved survival, which was associated with reduced levels of apoptotic markers and increased MEK phosphorylation. Collectively, these findings indicate an association between polyploidy and increased phosphorylation of S6K1 and S6, while pharmacological inhibition of S6 signaling by Torin1 or rapamycin was ",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-14T00:00:00+00:00",
+  "tags": [
+   "aging"
+  ],
+  "topics": [
+   "Rapamycin"
+  ],
+  "summary_short": "Furthermore, under glucose starvation, polyploid cells exhibited improved survival, which was associated with reduced levels of apoptotic markers and increased MEK phosphorylation. Collectively, these findings indicate an association between polyploidy and increased phosphorylation of S6K1 and S6, while\u2026",
+  "summary_source": "extractive"
+ },
+ {
   "id": "10.1111/acel.70801",
   "title": "Convergent Geroscience: Integrating Social, Population, and Biological Aging Research to Healthy Aging",
   "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70801?af=R",
@@ -4242,253 +4499,6 @@
   ],
   "topics": [],
   "summary_short": "ATP availability strongly influenced replicative lifespan: ATP depletion shortened lifespan, whereas ATP supplementation restored and extended lifespan in NTT1-expressing cells. Unexpectedly, extracellular ATP also extended lifespan in wild-type cells that lack ATP import, revealing an NTT1 -independent response to\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1111/acel.70830",
-  "title": "HDAC7 Scaffolds GSK3\u03b2\u2010Tau Interaction to Drive GSK3\u03b2 Activation and Tau Pathology",
-  "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70830?af=R",
-  "abstract": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "journal": "Aging Cell",
-  "publisher": "Wiley",
-  "date": "2026-11-10T09:33:57+00:00",
-  "tags": [
-   "aging"
-  ],
-  "topics": [],
-  "summary_short": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1111/acel.70827",
-  "title": "Impaired Exercise\u2010Induced Mitophagy in Aged Muscle Coincides With Altered mitoAMPK\u03b1 in Male Mice",
-  "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70827?af=R",
-  "abstract": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "journal": "Aging Cell",
-  "publisher": "Wiley",
-  "date": "2026-11-10T05:18:12+00:00",
-  "tags": [
-   "aging",
-   "exercise"
-  ],
-  "topics": [],
-  "summary_short": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1007/s13340-026-00946-x",
-  "title": "GLP-1 based therapy of obesity and type 2 diabetes.",
-  "link": "https://doi.org/10.1007/s13340-026-00946-x",
-  "abstract": "GLP-1 is 30-amino acid peptide that is secreted from the intestine in response to food intake. The release mechanism involves luminal exposure to as well as absorption and metabolism of the major nutrients. It functions mainly as a part of the ileal brake mechanism whereby nutrient entry in distal segments of the small intestine inhibit gastrointestinal secretion and motility as well as appetite and food intake, signalling nutritional abundance. It also functions as a second line incretin hormone. It acts on the brain via sensory vagal afferents, but also interacts with exposed neurons expressing the GLP-1 receptor in the circumventricular organs, in turn activating brain nuclei involved in appetite regulation and reward. High doses of GLP-1 cause nausea and vomiting, but slow dosing titration mitigates this. GLP-1 Receptor Agonists owe their actions to these physiological mechanisms and therefore represent powerful antidiabetic agents (A1c levels below 5.7%) and cause major weight loss (up to 20%), but also appear to reduce the systemic low-grade inflammation of obesity and type 2 diabetes and to exert beneficial action on the blood vessels, providing the GLP-1RAs with preventive effects on cardiovascular, hepatic, renal and central nervous system complications. Orally active GLP-1rAs have also been developed. It is emphasized that GLP-1RA therapy should be accompanied by lifestyle changes for efficacy and to prevent side effects of the weight loss. In addition, any prescrip",
-  "journal": "Longevity (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "GLP-1 is 30-amino acid peptide that is secreted from the intestine in response to food intake. The release mechanism involves luminal exposure to as well as absorption and metabolism of the major nutrients.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1007/s13340-026-00945-y",
-  "title": "Associations of fibroblast growth factor 21 with renal parameter changes during pemafibrate treatment in patients with type 2 diabetes.",
-  "link": "https://doi.org/10.1007/s13340-026-00945-y",
-  "abstract": "Background Experimental studies suggest that fibroblast growth factor 21 (FGF21) is involved in pathways related to peroxisome proliferator-activated receptor alpha (PPAR\u03b1) activation, whereas elevated circulating FGF21 has also been associated with metabolic stress and kidney dysfunction. We examined the associations of FGF21 with renal parameter changes following the initiation of pemafibrate, a selective PPAR\u03b1 modulator, in patients with type 2 diabetes mellitus (T2DM). Methods In this retrospective study using prospectively collected blood samples, 81 patients with T2DM who initiated pemafibrate and continued treatment for \u2265 2 years were analyzed. Clinical data and serum high-sensitivity C-reactive protein (hsCRP) and FGF21 levels were assessed at baseline and two years. The main outcomes were changes in estimated glomerular filtration rate (eGFR) and log-transformed urinary albumin-to-creatinine ratio (UACR). Multivariable linear regression analyses were performed. Results During the two-year observation period, triglyceride, hsCRP, and UACR levels decreased, whereas FGF21 increased; eGFR remained stable. The change in eGFR was more favorable in patients with baseline eGFR of 30 to 2 than in those with eGFR \u2265 60 mL/min/1.73 m 2 . Higher baseline FGF21 and greater increases in FGF21 remained associated with less favorable changes in eGFR and UACR in multivariable analyses. Conclusions Higher baseline FGF21 and greater increases in FGF21 were associated with less favorable",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "Higher baseline FGF21 and greater increases in FGF21 remained associated with less favorable changes in eGFR and UACR in multivariable analyses. Conclusions Higher baseline FGF21 and greater increases in FGF21 were associated with less favorable",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1080/19490976.2026.2760059",
-  "title": "&lt;i&gt;Rhodotorula mucilaginosa&lt;/i&gt; DM2025 ameliorates obesity through cholesterol binding and the gut mycobiome-BAT PPAR\u03b3/UCP1 axis.",
-  "link": "https://doi.org/10.1080/19490976.2026.2760059",
-  "abstract": "Obesity is a major global health challenge, necessitating safe and effective therapies. Although probiotics are promising for obesity management, research has focused on bacteria, leaving non- Saccharomyces yeasts underexplored. Here, we investigated the anti\u2011obesity mechanisms of Rhodotorula mucilaginosa DM2025, isolated from the healthy murine gut. To test whether benefits depend on viable cells, high\u2011fat diet\u2011fed mice received either live yeast or its cell\u2011free supernatant, followed by integrated physiological, genomic, and metabolomic analyzes. Live yeast, but not supernatant, significantly reduced body weight gain, improved serum lipids, and was associated with activation of brown adipose tissue thermogenesis (upregulated PPAR\u03b3, PGC1\u03b1, UCP1). Though the supernatant lowered total cholesterol, it failed to affect weight or thermogenic genes, indicating cholesterol\u2011lowering and weight reduction are distinct processes. Live cells were enriched in propionate, indole, and carotenoid\u2011related metabolites, with genomic support for their biosynthesis. Live yeast reshaped the gut mycobiome, promoting Basidiomycota / Rhodotorula dominance; this fungal restructuring was absent in HFD controls. These findings suggest that R. mucilaginosa DM2025 anti\u2011obesity efficacy relies on the continuous metabolic activity of live cells, producing thermogenesis\u2011associated metabolites that may contribute to BAT activation. Additionally, physical cholesterol binding to the yeast cell surface provides",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "Live yeast, but not supernatant, significantly reduced body weight gain, improved serum lipids, and was associated with activation of brown adipose tissue thermogenesis (upregulated PPAR\u03b3, PGC1\u03b1, UCP1). These findings suggest that R. mucilaginosa DM2025 anti\u2011obesity efficacy relies on the continuous metabolic activity\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.3892/ol.2026.15942",
-  "title": "Oncogenic mechanisms and therapeutic potential of SALL4 in hematological malignancies (Review).",
-  "link": "https://doi.org/10.3892/ol.2026.15942",
-  "abstract": "As a member of the spalt like transcription factor (SALL) family, SALL4 regulates multiple oncogenic processes including cell proliferation, metastasis, epithelial-mesenchymal transition, cancer stem cell maintenance and drug resistance. Physiologically, it is essential for the self-renewal of embryonic and hematopoietic stem cells. Aberrant upregulation of SALL4 is frequently observed in both solid tumors and hematological malignancies; it has been proven to play a critical role in hematological malignancies, especially acute myeloid leukemia, acute lymphoblastic leukemia, myelodysplastic syndrome, chronic myeloid leukemia and mixed-lineage leukemia, where it promotes malignant cell proliferation, disease progression, and chemoresistance via downstream genes and key signaling pathways. Targeting key oncogenic molecules represents a promising therapeutic strategy for hematological malignancies. Elucidating the regulatory mechanisms of SALL4 may identify a novel therapeutic target. The present review summarizes the regulatory functions of SALL4 on key oncogenic targets and its upregulation profile in hematological malignancies. Although some mechanisms are mainly illustrated in solid tumors, they provide important insights for hematological cancer. Overall, SALL4 exhibits great potential as a novel therapeutic target and prognostic biomarker for hematological malignancies.",
-  "journal": "Rapamycin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "As a member of the spalt like transcription factor (SALL) family, SALL4 regulates multiple oncogenic processes including cell proliferation, metastasis, epithelial-mesenchymal transition, cancer stem cell maintenance and drug resistance. Physiologically, it is essential for the self-renewal of embryonic and\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.70962/jhi.20250036",
-  "title": "Novel pathogenic FOXP3 variant in two unrelated families with IPEX syndrome.",
-  "link": "https://doi.org/10.70962/jhi.20250036",
-  "abstract": "The authors describe three patients with IPEX due to a novel pathogenic variant, two of which have been successfully treated with stem cell transplant. Confidence about variant pathogenicity is difficult in IPEX, and hematopoietic stem cell transplantation (HSCT) outcomes are variable; reporting classical IPEX due to novel variants, in this case with an elevated TSDR, remains essential.",
-  "journal": "Rapamycin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "The authors describe three patients with IPEX due to a novel pathogenic variant, two of which have been successfully treated with stem cell transplant. Confidence about variant pathogenicity is difficult in IPEX, and hematopoietic stem cell transplantation (HSCT) outcomes are variable; reporting classical IPEX due to\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1080/0886022x.2026.2731733",
-  "title": "Correlation between proteinuria and cardiac biomarker levels in kidney transplant recipients.",
-  "link": "https://doi.org/10.1080/0886022x.2026.2731733",
-  "abstract": "Kidney transplantation is the preferred treatment for end-stage kidney disease, with improved short-term outcomes; however, long-term graft and patient survival remain suboptimal. Proteinuria is a strong predictor of adverse graft and cardiovascular outcomes. We investigated the relationship between proteinuria and selected cardiac and inflammatory biomarkers, including the interleukin-33 (IL-33)/soluble ST2 (sST2) axis, malondialdehyde, neprilysin, growth differentiation factor-15 (GDF-15), and angiotensin-converting enzyme 2 (ACE2), in kidney transplant recipients, with a focus on patients with heart failure. Methods: Sixty-five transplant recipients were included: 15 kidney transplant recipients with heart failure and 49 controls consisting of kidney or heart transplant recipients without heart failure. Patients were followed between November 2023 and June 2024 at the Division of Nephrology at the University of Debrecen. Proteinuria was assessed using the urinary protein-to-creatinine ratio. Laboratory analyses included routine biochemical parameters, inflammatory markers, NT-proBNP, soluble IL-33 receptor (sST2), neprilysin, GDF-15, and ACE2 activity. Discrete data were described as percentages and analyzed with Fisher's exact test. Group comparisons were performed using the Kruskal-Wallis test, and correlations were assessed using non-parametric methods. Across all study groups, urinary protein excretion correlated weakly positively with sST2 levels ( r = 0.27, p = 0.044",
-  "journal": "Rapamycin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "Kidney transplantation is the preferred treatment for end-stage kidney disease, with improved short-term outcomes; however, long-term graft and patient survival remain suboptimal.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1080/16078454.2026.2761167",
-  "title": "Inhibitory effects of the bone marrow microenvironment on erythroid progenitors in pure red cell aplasia.",
-  "link": "https://doi.org/10.1080/16078454.2026.2761167",
-  "abstract": "Background Primary pure red cell aplasia (PRCA) is a rare hematologic disorder characterized by severe anemia and selective erythroid hypoplasia in the bone marrow. While immune-mediated mechanisms are central to its pathogenesis, the role of soluble inflammatory factors in the bone marrow microenvironment remains poorly understood. Methods Bone marrow plasma and lineage-negative (Lin - ) hematopoietic progenitor cells were obtained from untreated PRCA patients and healthy controls. K562 erythroleukemia cells were co-cultured with plasma and induced to undergo erythroid differentiation using hemin. Hemoglobin production was assessed by benzidine staining, and GATA1/GATA2 protein expression was analyzed by Western blotting. Erythroid colony-forming assays were performed to quantify small and large burst-forming unit-erythroid (BFU-E) and colony-forming unit-erythroid (CFU-E) colonies. Cytokine levels in bone marrow supernatant were measured. The effects of dexamethasone, cyclosporine A, and rapamycin on colony formation were also evaluated. Results PRCA bone marrow plasma significantly inhibited hemoglobinization in K562 cells and suppressed GATA2 expression without affecting GATA1. Lin - cells from PRCA patients formed markedly fewer large BFU-E colonies than those from controls. Treatment with dexamethasone alone or in combination with cyclosporine A or rapamycin significantly restored large BFU-E colony formation. Cytokine analysis revealed significantly elevated levels of ",
-  "journal": "Rapamycin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "Rapamycin"
-  ],
-  "summary_short": "Background Primary pure red cell aplasia (PRCA) is a rare hematologic disorder characterized by severe anemia and selective erythroid hypoplasia in the bone marrow. While immune-mediated mechanisms are central to its pathogenesis, the role of soluble inflammatory factors in the bone marrow microenvironment remains\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1080/20565623.2026.2757081",
-  "title": "Distinct associations of &lt;i&gt;STK11&lt;/i&gt; rs2301759 and &lt;i&gt;SLC29A4&lt;/i&gt; rs2685753 with metformin response among Saudi patients with type 2 diabetes mellitus.",
-  "link": "https://doi.org/10.1080/20565623.2026.2757081",
-  "abstract": "Aims This study investigates the genotype and allele frequencies of solute carrier family 29 member 4 ( SLC29A4) rs2685753 and serine/threonine kinase 11 ( STK11) rs2301759 in the Saudi population and their association with metformin response in Saudi patients with type 2 diabetes mellitus (T2DM), while comparing the findings with other ethnic populations. Patients & methods A prospective cohort study included 69 newly diagnosed Saudi adults with T2DM receiving metformin monotherapy for at least six months and 59 healthy controls. Genotyping was performed using TaqMan single-nucleotide polymorphism (SNP) assays. Associations between genetic variants and glycemic response were analyzed using chi-square tests and logistic regression. Results Among patients, 55% achieved adequate glycemic control, whereas 45% were non-responders. SLC29A4 rs2685753 showed no significant association with the metformin response. In contrast, STK11 rs2301759 demonstrated significant genotypic and allelic associations, with the C/T genotype linked to improved glycemic response. Higher baseline glycated hemoglobin (HbA1c) and family history of diabetes were associated with poorer response. Conclusion STK11 rs2301759 may influence metformin efficacy in Saudi patients with T2DM and could support personalized diabetes management.",
-  "journal": "Metformin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "Metformin"
-  ],
-  "summary_short": "In contrast, STK11 rs2301759 demonstrated significant genotypic and allelic associations, with the C/T genotype linked to improved glycemic response. Higher baseline glycated hemoglobin (HbA1c) and family history of diabetes were associated with poorer response.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1016/j.jneuroim.2026.579132",
-  "title": "Hyperinsulinemia contributes to regulatory T-cell dysfunction and disease activity in multiple sclerosis.",
-  "link": "https://doi.org/10.1016/j.jneuroim.2026.579132",
-  "abstract": "We examined relationships among obesity, hyperinsulinemia, regulatory T-cell (Treg) function, and activity in multiple sclerosis (MS), and investigated insulin signaling as a candidate mechanism. We prospectively followed 131 patients with relapsing-remitting MS, stratified by body mass index, for at least 36 months. Clinical and MRI outcomes were assessed longitudinally, whereas metabolic parameters and Treg phenotype and function were evaluated at baseline. Mechanistic studies examined insulin receptor signaling in purified Tregs using insulin stimulation, pharmacological inhibition, insulin receptor silencing, and functional assays. In a separate, non-overlapping cohort, 28 obese hyperinsulinemic patients with relapsing-remitting MS underwent a 24-week metformin intervention with longitudinal metabolic and immunological assessments. Obese patients had higher fasting insulin, more relapses, disability progression, and MRI activity. Hyperinsulinemia correlated with reduced FoxP3 and IL-10, impaired Treg suppression, and increased IFN-\u03b3 and IL-17 in Treg-enriched cultures. Insulin stimulation altered AKT-mTOR signaling and Treg function; AKT inhibition or insulin receptor silencing reversed these effects. Obese-patient Tregs suppressed myelin-reactive responses less effectively. During metformin treatment, reductions in fasting insulin and AKT-mTOR signaling were accompanied by improvements in Treg phenotype and suppressive function and attenuation of myelin-specific inflamma",
-  "journal": "Metformin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [
-   "mtor"
-  ],
-  "topics": [
-   "Metformin"
-  ],
-  "summary_short": "Hyperinsulinemia correlated with reduced FoxP3 and IL-10, impaired Treg suppression, and increased IFN-\u03b3 and IL-17 in Treg-enriched cultures.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1016/j.isci.2026.118193",
-  "title": "Guanidinium-driven fluorescence detection of microcystins using carbon dot embedded silica nanoparticles.",
-  "link": "https://doi.org/10.1016/j.isci.2026.118193",
-  "abstract": "Detection of microcystins in environmental waters is constrained by complex analytical methods and the cost of whole-toxin-based imprinting techniques. Herein, we report a carbon-dot-embedded silica molecularly imprinted polymer (CDSiMIP) nanosensor prepared using L-arginine as a surrogate fragment template. The Arg-CDSiMIP nanosensor showed preferential fluorescence responses toward guanidyl-bearing microcystins, achieving detection limits of 33 ng L -1 for microcystin-LR (0-450 ng L -1 ) and 13 ng L -1 for microcystin-RR (0-400 ng L -1 ) with an interaction/response time of 15 min. Substantial microcystin-LR-induced quenching was maintained over a pH range of 6.0-10.0, whereas environmental interferents, free amino acids, and a photosynthetic pigment extract produced comparatively lower responses. In spiked lake water, fluorescence-based recoveries were 105%-117% (relative standard deviation \u22641.5%), with concentration estimates generally comparable to those obtained by independent mass spectrometric measurements. These findings establish the fragment-imprinted CDSiMIP nanosensor as a sensitive, rapid optical screening platform for detecting microcystins in environmental water.",
-  "journal": "Metformin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "Herein, we report a carbon-dot-embedded silica molecularly imprinted polymer (CDSiMIP) nanosensor prepared using L-arginine as a surrogate fragment template.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1002/hsr2.73484",
-  "title": "Knowledge, Attitudes, and Practices Regarding the Long-Term Health Risks of Energy Drink Consumption Among Adults in Iraq: A Cross-Sectional Study.",
-  "link": "https://doi.org/10.1002/hsr2.73484",
-  "abstract": "Background and aims Energy drink consumption is common among young adults, yet evidence on knowledge, attitudes and practices in Iraq remains limited. This study assessed these domains among adults in Iraq and examined associations of knowledge and risk concern with past-year use and consumption frequency. Methods A cross-sectional online survey was conducted in Iraq from May to November 2025 using a structured Arabic questionnaire distributed through social media. The sample included 1125 adults. Scale reliability and construct validity were assessed using ordinal alpha coefficients and confirmatory factor analysis. Structural equation models examined associations of knowledge and risk concern with past-year energy drink use and consumption frequency, adjusting for demographic covariates. Results Past-year consumption was reported by 399/1125 participants (35.5%). Of the 1125 participants, 1002 (89.1%) identified arrhythmias, 977 (86.8%) sleep problems and 794 (70.6%) raised blood pressure as potential risks; 468 (41.6%) reported knowing the ingredients. Support for warning labels, awareness campaigns and age restrictions was 1029/1125 (91.5%), 1023/1125 (90.9%) and 974/1125 (86.6%), respectively. Higher knowledge was associated with greater risk concern, which was associated with a lower likelihood of past-year use and lower consumption frequency among consumers. Conclusion Energy drink consumption was common in this sample, alongside strong support for regulation and limit",
-  "journal": "Taurine (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [
-   "sleep"
-  ],
-  "topics": [],
-  "summary_short": "Higher knowledge was associated with greater risk concern, which was associated with a lower likelihood of past-year use and lower consumption frequency among consumers.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1016/j.bcp.2026.118601",
-  "title": "Metformin for the treatment of chronic liver disease: Mechanistic rationale, translational evidence, and repurposing opportunities.",
-  "link": "https://doi.org/10.1016/j.bcp.2026.118601",
-  "abstract": "Chronic liver disease (CLD) is characterized by progressive hepatocellular injury, metabolic dysfunction, inflammation, fibrogenesis, and an increased risk of hepatocellular carcinoma (HCC). Despite advances in understanding CLD pathogenesis, effective therapies targeting multiple disease-driving pathways remain limited. Metformin, a biguanide widely used to treat type 2 diabetes, has emerged as a candidate for drug repurposing because of its pleiotropic metabolic and immunomodulatory effects. This narrative review examines the mechanistic rationale, translational evidence, and clinical implications of metformin in treating CLD. Experimental studies indicate that metformin modulates AMP-activated protein kinase-dependent and -independent pathways involved in hepatic lipid metabolism, mitochondrial bioenergetics, oxidative stress, autophagy, immunometabolic signaling, hepatic stellate cell activation, and hepatocarcinogenesis. In preclinical models, these effects have been associated with reduced steatosis, inflammatory injury, fibrogenesis, and tumor-promoting signaling. Epidemiological and clinical studies also suggest that metformin use is associated with improved survival in selected patients with cirrhosis and a lower risk of HCC in individuals with diabetes. Although mechanistic, experimental, and epidemiological evidence is encouraging, randomized clinical studies have not consistently shown histological improvement in metabolic dysfunction-associated steatohepatitis, a",
-  "journal": "Metformin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-10T00:00:00+00:00",
-  "tags": [
-   "autophagy"
-  ],
-  "topics": [
-   "Metformin"
-  ],
-  "summary_short": "In preclinical models, these effects have been associated with reduced steatosis, inflammatory injury, fibrogenesis, and tumor-promoting signaling. Epidemiological and clinical studies also suggest that metformin use is associated with improved survival in selected patients with cirrhosis and a lower risk of HCC in\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1111/acel.70770",
-  "title": "Senescence\u2010Associated Loss of \u03b1\u2010Synuclein in Brain Microvascular Endothelium Compromises Tight Junctions and Disrupts Blood\u2013Brain Barrier Integrity",
-  "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70770?af=R",
-  "abstract": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "journal": "Aging Cell",
-  "publisher": "Wiley",
-  "date": "2026-11-09T08:00:00+00:00",
-  "tags": [
-   "aging",
-   "senescence"
-  ],
-  "topics": [],
-  "summary_short": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1080/21505594.2026.2757956",
-  "title": "Targeting mitochondrial quality control to disarm phytopathogenic fungi.",
-  "link": "https://doi.org/10.1080/21505594.2026.2757956",
-  "abstract": "Fungal diseases cause substantial crop losses worldwide, while increasing fungicide resistance highlights the need for new disease-control strategies. Mitochondrial quality control (MQC), comprising mitochondrial dynamics, biogenesis, proteostasis, and mitophagy, maintains mitochondrial integrity and functional capacity during infection. Evidence from phytopathogenic fungi links disruption of individual MQC mechanisms to defects in growth, stress adaptation, and pathogenicity. Here, we synthesize evidence across hemibiotrophic, vascular, and necrotrophic pathogens and across distinct stages of the infection cycle. Because mechanistic evidence is strongest in Magnaporthe oryzae , we use it as a principal reference system while highlighting conserved and lifestyle-specific requirements emerging from other fungi. This review proposes three complementary strategies for exploiting MQC vulnerabilities: targeting pathogen-specific regulatory features within conserved mitochondrial systems, exploiting interdependencies among MQC processes and mitochondrial stress responses, and targeting stage-specific mitochondrial requirements as potential intervention points. We also highlight some limitations that need resolution while considering MQC mechanisms as antifungal targets.",
-  "journal": "Longevity (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-09T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "Fungal diseases cause substantial crop losses worldwide, while increasing fungicide resistance highlights the need for new disease-control strategies. Mitochondrial quality control (MQC), comprising mitochondrial dynamics, biogenesis, proteostasis, and mitophagy, maintains mitochondrial integrity and functional\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.14740/jmc5407",
-  "title": "Perioperative Management of a Breastfed Child Whose Mother Was Receiving Injectable Semaglutide: A Case Report Outlining Use of Gastric Point-of-Care Ultrasound.",
-  "link": "https://doi.org/10.14740/jmc5407",
-  "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), including semaglutide, are increasingly used for the treatment of type 2 diabetes mellitus and for weight management. Although generally effective, specific end-organ effects, including delayed gastric emptying, may impact the perioperative care of patients receiving these agents. Given these concerns, guidelines have been suggested for the perioperative care of patients receiving GLP-1 RAs. However, these recommendations do not specifically address the increasingly encountered scenario in which a breastfeeding mother is taking a GLP-1 RA and the breastfed infant or young child is presenting for anesthetic care. We present a 15-month-old breastfed child who presented for surgery and whose mother was receiving once-weekly injectable semaglutide. Given limited evidence-based medicine to guide perioperative care in this clinical scenario, preoperative gastric point-of-care ultrasound (POCUS) was used to evaluate gastric volume before induction of anesthesia. Perioperative care of breastfed children of mothers receiving GLP-1 RAs is discussed, the role of gastric POCUS is presented, and options for perioperative care are reviewed.",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-09T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), including semaglutide, are increasingly used for the treatment of type 2 diabetes mellitus and for weight management. Although generally effective, specific end-organ effects, including delayed gastric emptying, may impact the perioperative care of patients\u2026",
   "summary_source": "extractive"
  }
 ]
