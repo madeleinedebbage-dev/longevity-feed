@@ -1,5 +1,186 @@
 [
  {
+  "id": "10.1096/fj.202505065r",
+  "title": "Exploring the Link Between Artificial Sweetener Consumption and COPD: Insights From NHANES Data, Machine Learning, Multi-Omics, and Experimental Validation.",
+  "link": "https://doi.org/10.1096/fj.202505065r",
+  "abstract": "Artificial sweeteners (AS) are an emerging environmental pollutant. Few studies have focused on the link between AS consumption and the risk of chronic obstructive pulmonary disease (COPD). This study integrates NHANES, GEO, and sceQTL data, utilizing methods such as longitudinal studies, toxicity analysis, machine learning, MR analysis, molecular docking, and in vitro experiments to investigate the relationship between AS consumption and COPD risk, as well as the underlying molecular mechanisms. NHANES data analysis showed an association between AS consumption and increased COPD risk. Toxicity predictions indicated that AS exhibits respiratory toxicity, with several AS compounds posing acute toxicity risks to susceptible populations under specific conditions. Bioinformatics analyses of COPD datasets identified key modules and genes, which, together with AS-related targets from chemical databases, revealed 10 candidate genes. Machine learning further pinpointed 8 key genes (CDKN1A, F13A1, IL6, PLA2G2A, PTGS2, S100A8, SERPINE1, and THBS1), all significantly upregulated in COPD and enriched in pathways related to inflammation, immune response, and apoptosis. MR analysis confirmed that a causal link exists between the expression of CDKN1A, F13A1, IL6, and S100A8 in specific immune cells and COPD risk. Molecular docking and molecular dynamics simulations demonstrated that AS can specifically bind to key gene target proteins, forming stable complexes. In vitro experiments showed t",
+  "journal": "Longevity (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-27T14:47:10.008116+00:00",
+  "tags": [],
+  "topics": [],
+  "summary_short": "NHANES data analysis showed an association between AS consumption and increased COPD risk.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1093/ajrccm/aamag391",
+  "title": "Macrophage membrane-coated nanoparticles control pathological inflammation and enhance survival in models of severe bacterial pneumonia.",
+  "link": "https://doi.org/10.1093/ajrccm/aamag391",
+  "abstract": "Rationale Severe bacterial pneumonia is a leading cause of death worldwide, and mortality rates remain unacceptably high despite appropriate antibiotic treatment. Macrophage membrane-coated nanoparticles (M\u03a6-NPs) are biomimetic constructs engineered to neutralize bacterial toxins, pathogen-associated molecular patterns, and proinflammatory cytokines. Objective To evaluate the therapeutic potential of M\u03a6-NPs for the treatment of severe bacterial pneumonia. Methods We evaluated the therapeutic potential of M\u03a6-NPs using in vitro models of infection involving human lung endothelial and epithelial cells, as well as primary human neutrophils, and in vivo murine models of Pseudomonas aeruginosa (PA) and methicillin-resistant Staphylococcus aureus (MRSA) pneumonia. Main results M\u03a6-NPs demonstrated potent cytoprotective and anti-inflammatory activity in vitro, without impairing neutrophil antimicrobial function. In both PA and MRSA pneumonia models, M\u03a6-NP treatment significantly improved survival, reduced bacterial burden, lowered proinflammatory cytokines, and preserved lung architecture. Quantitative proteomics further revealed suppression of inflammatory, coagulation, and fibrotic pathways associated with poor outcomes in human pneumonia and acute respiratory distress syndrome. Conclusions These findings establish M\u03a6-NPs as a promising host-directed therapeutic strategy for mitigating the deleterious inflammatory sequelae of severe bacterial pneumonia.",
+  "journal": "Longevity (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-27T14:47:10.008116+00:00",
+  "tags": [],
+  "topics": [],
+  "summary_short": "In both PA and MRSA pneumonia models, M\u03a6-NP treatment significantly improved survival, reduced bacterial burden, lowered proinflammatory cytokines, and preserved lung architecture. Quantitative proteomics further revealed suppression of inflammatory, coagulation, and fibrotic pathways associated with poor outcomes in\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.36721/pjps/2026.40.16851.1",
+  "title": "&lt;b&gt;&lt;b&gt;Safety profile and potential favorable reporting signals of liraglutide in patients with ulcerative colitis: A FAERS pharmacovigilance and network pharmacology study&lt;/b&gt;&lt;/b&gt;.",
+  "link": "https://doi.org/10.36721/pjps/2026.40.16851.1",
+  "abstract": "Background Liraglutide, a glucagon-like peptide-1 receptor agonist (GLP-1 RA), has preclinical anti-inflammatory and barrier-protective effects, but its safety profile and potential favorable reporting associations in ulcerative colitis (UC) remain uncertain. Objectives To characterize liraglutide-associated reports in patients with UC and explore biological pathways that may contextualize the observed pharmacovigilance signals. Methods Reports submitted to the U.S. Food and Drug Administration Adverse Event Reporting System (FAERS) from January 1, 2013, to December 31, 2025, were analyzed in which liraglutide was recorded as the primary suspected drug and UC as the indication. Disproportionality was assessed using the reporting odds ratio (ROR), proportional reporting ratio (PRR), Bayesian confidence propagation neural network (BCPNN) and multi-item gamma Poisson shrinker (MGPS). Network pharmacology identified shared targets, constructed a protein-protein interaction network and performed Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses. Results Among 5,903 unique cases and 28,607 preferred-term event entries, the most frequent categories were general disorders and administration-site conditions, gastrointestinal disorders, injury or medication-related complications, infections and investigations. The term \"condition aggravated\" was reported in 1,512 cases. Medication management, metabolic, infectious, neuropsychiatric and gastrointestinal signa",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-27T14:47:10.008116+00:00",
+  "tags": [],
+  "topics": [
+   "GLP-1"
+  ],
+  "summary_short": "Background Liraglutide, a glucagon-like peptide-1 receptor agonist (GLP-1 RA), has preclinical anti-inflammatory and barrier-protective effects, but its safety profile and potential favorable reporting associations in ulcerative colitis (UC) remain uncertain. Objectives To characterize liraglutide-associated reports\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1093/ajrccm/aamag542",
+  "title": "2026 Global Initiative for Asthma (GINA) strategy report: executive summary and key changes. From population evidence to personalized asthma care.",
+  "link": "https://doi.org/10.1093/ajrccm/aamag542",
+  "abstract": "The Global Initiative for Asthma (GINA) strategy report provides a comprehensive, annually updated evidence-based approach to asthma diagnosis, assessment, treatment, and prevention across the lifespan. Its central approach is personalized, iterative care based on the Assess-Adjust-Review cycle for both symptom control and reduction of future risk (including severe exacerbations, persistent airflow limitation, and treatment-related harm). GINA emphasizes objective confirmation of diagnosis wherever possible, and regular assessment of lung function, inhaler technique, adherence, multimorbidity, risk factors (including type 2 biomarkers), and patient goals and preferences. GINA strongly recommends that all adults, adolescents, children, and most preschoolers with asthma should receive inhaled corticosteroid (ICS)-containing treatment. GINA recommends against short-acting \u03b22-agonist (SABA)-only treatment. For adults/adolescents, GINA Track 1, using low-dose ICS-formoterol, an anti-inflammatory reliever (AIR), either as-needed-only or as maintenance-and-reliever therapy, is preferred because of its substantial reduction in severe exacerbations compared with SABA-based regimens, and its simplicity. Age-specific treatment pathways in children also emphasize ICS-containing therapy and exacerbation prevention. For difficult-to-treat and severe asthma, GINA provides structured guidance, emphasizing diagnostic verification, optimization of modifiable factors, inflammatory phenotyping, ",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-27T14:47:10.008116+00:00",
+  "tags": [
+   "lifespan"
+  ],
+  "topics": [],
+  "summary_short": "The Global Initiative for Asthma (GINA) strategy report provides a comprehensive, annually updated evidence-based approach to asthma diagnosis, assessment, treatment, and prevention across the lifespan. Its central approach is personalized, iterative care based on the Assess-Adjust-Review cycle for both symptom\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1093/ajrccm/aamag366",
+  "title": "Incretins predict response to enteral nutrition strategies in the Early versus Delayed Enteral Nutrition trial: a secondary analysis.",
+  "link": "https://doi.org/10.1093/ajrccm/aamag366",
+  "abstract": "Rationale The Early versus Delayed Enteral Nutrition (EDEN) trial found no significant difference in mortality between trophic and full enteral nutrition strategies in acute respiratory distress syndrome (ARDS) patients. Heterogeneity of treatment effect (HTE) has been identified in prior ARDS trials. We previously identified intestine-derived incretin hormones (glucose-dependent insulinotropic peptide [GIP] and glucagon-like peptide [GLP]-1) as potential predictive biomarkers in the response to nutrition. Objectives To investigate incretins as biomarkers predictive of HTE in EDEN. Methods Glucose-dependent insulinotropic peptide, GLP-1, and host immune response biomarkers were measured from pre-intervention EDEN plasma samples. We investigated HTE with 60-day mortality as a primary outcome by testing interaction of treatment with circulating incretin levels in analyses adjusted for demographics, severity of illness, diabetes mellitus, and circulating IL-6 and assessed mortality by treatment arm across incretin tertiles. We additionally tested for HTE by de novo ARDS subphenotypes and by risk of mortality. Measurements and main results A total of 889 participants were included (452 randomly assigned to trophic and 437 to full enteral nutrition). Glucose-dependent insulinotropic peptide predicted HTE to enteral nutrition strategies (adjusted interaction P = .01) with lower mortality from trophic feeds (14.1% vs 27.2% in full) in patients in the highest GIP tertile but similar ",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-27T14:47:10.008116+00:00",
+  "tags": [
+   "nutrition"
+  ],
+  "topics": [
+   "GLP-1"
+  ],
+  "summary_short": "Rationale The Early versus Delayed Enteral Nutrition (EDEN) trial found no significant difference in mortality between trophic and full enteral nutrition strategies in acute respiratory distress syndrome (ARDS) patients.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "https://www.nature.com/articles/s43587-026-01294-w",
+  "title": "Decoding the role of cellular senescence in wounds",
+  "link": "https://www.nature.com/articles/s43587-026-01294-w",
+  "abstract": "Nature Aging, Published online: 27 November 2026; doi:10.1038/s43587-026-01294-w Studies that involve the direct manipulation of senescent cells, either by addition or elimination, in wound models have yielded conflicting results. This inconsistency probably reflects the inherently dynamic nature of wound healing and the complexity of targeting cellular senescence. In this Comment, we systematically evaluate current studies with respect to timing, experimental design and interventional strategies to clarify the role of various senescent-cell subpopulations in the wound healing process.",
+  "journal": "Nature Aging",
+  "publisher": "Nature Portfolio",
+  "date": "2026-11-27T00:00:00+00:00",
+  "tags": [
+   "aging",
+   "senescence",
+   "senescent"
+  ],
+  "topics": [],
+  "summary_short": "Nature Aging, Published online: 27 November 2026; doi:10.1038/s43587-026-01294-w Studies that involve the direct manipulation of senescent cells, either by addition or elimination, in wound models have yielded conflicting results. This inconsistency probably reflects the inherently dynamic nature of wound healing and\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "https://www.nature.com/articles/s43587-026-01290-0",
+  "title": "Sequential digital cognitive screening and plasma biomarkers for detection of Alzheimer\u2019s disease",
+  "link": "https://www.nature.com/articles/s43587-026-01290-0",
+  "abstract": "Nature Aging, Published online: 27 November 2026; doi:10.1038/s43587-026-01290-0 Researchers tested a sequential triaging approach that combined digital cognitive assessments and blood tests for the detection of Alzheimer\u2019s disease. They found these two tools could save more than 60% of individuals from detailed cognitive evaluations and up to 85% from needing amyloid brain scans.",
+  "journal": "Nature Aging",
+  "publisher": "Nature Portfolio",
+  "date": "2026-11-27T00:00:00+00:00",
+  "tags": [
+   "aging"
+  ],
+  "topics": [],
+  "summary_short": "Nature Aging, Published online: 27 November 2026; doi:10.1038/s43587-026-01290-0 Researchers tested a sequential triaging approach that combined digital cognitive assessments and blood tests for the detection of Alzheimer\u2019s disease. They found these two tools could save more than 60% of individuals from detailed\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01474-9?rss=yes",
+  "title": "CRYAB drives ER-mitochondria crosstalk to escape therapy-induced senescence in lung cancer brain metastases",
+  "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01474-9?rss=yes",
+  "abstract": "Chen et al. show that CRYAB-VDAC2-dependent mitochondrial fission enables lung cancer brain metastases to escape osimertinib-induced senescence. Genetic and pharmacological disruption of this program delays tumor regrowth, while a 25-hydroxycholesterol-containing diet enhances osimertinib activity in preclinical models.",
+  "journal": "Cell Reports",
+  "publisher": "Cell Press",
+  "date": "2026-11-27T00:00:00+00:00",
+  "tags": [
+   "senescence"
+  ],
+  "topics": [],
+  "summary_short": "Chen et al. show that CRYAB-VDAC2-dependent mitochondrial fission enables lung cancer brain metastases to escape osimertinib-induced senescence. Genetic and pharmacological disruption of this program delays tumor regrowth, while a 25-hydroxycholesterol-containing diet enhances osimertinib activity in preclinical\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01455-5?rss=yes",
+  "title": "Aperiodic neural activity is associated with encoding success and subsequent spindle-mediated memory consolidation",
+  "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01455-5?rss=yes",
+  "abstract": "This study examines how neural processes during wake encoding interact with sleep physiology to shape which experiences persist in memory. B\u00fcchel et al. distinguish aperiodic from oscillatory encoding-success-related signals and show that the spatial correspondence between aperiodic encoding activity and sleep spindle expression is associated with memory retention after sleep.",
+  "journal": "Cell Reports",
+  "publisher": "Cell Press",
+  "date": "2026-11-27T00:00:00+00:00",
+  "tags": [
+   "sleep"
+  ],
+  "topics": [],
+  "summary_short": "This study examines how neural processes during wake encoding interact with sleep physiology to shape which experiences persist in memory. B\u00fcchel et al. distinguish aperiodic from oscillatory encoding-success-related signals and show that the spatial correspondence between aperiodic encoding activity and sleep spindle\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1007/s11357-026-02687-w",
+  "title": "Age-dependent remodeling of the peripheral nerve microenvironment: anatomical implications for perineural invasion",
+  "link": "https://link.springer.com/article/10.1007/s11357-026-02687-w",
+  "abstract": "Perineural invasion (PNI) involves interactions between malignant cells and the cellular and extracellular components of peripheral nerves. Although substantial evidence implicates Schwann cells, immune cells, and neurotrophic signaling in this process, the biological age of the invaded nerve has received limited attention. Peripheral nerves undergo age-related changes in Schwann-cell plasticity, inflammatory responses, and regenerative capacity, potentially altering the microenvironment encountered by invading tumor cells. We propose that peripheral nerve aging may influence PNI through changes in glial behavior, extracellular matrix organization, and the functional integrity of neural compartments. These mechanisms could have opposing effects: persistent inflammatory and senescence-associated signals might facilitate invasion, whereas reduced Schwann-cell plasticity might limit tumor-supportive repair programs. Current evidence does not establish which effect predominates. We outline an anatomically informed framework for investigating this hypothesis through age-comparative nerve models, compartment-specific histopathology, and spatial molecular profiling. Particular attention is given to the endoneurium, perineurium, and epineurium as distinct anatomical environments that may differentially influence tumor\u2013nerve interactions. Determining whether nerve-intrinsic aging modifies the probability, extent, or anatomical pattern of PNI could identify a previously insufficiently ",
+  "journal": "GeroScience",
+  "publisher": "Springer",
+  "date": "2026-11-27T00:00:00+00:00",
+  "tags": [
+   "aging",
+   "biological age",
+   "senescence"
+  ],
+  "topics": [],
+  "summary_short": "These mechanisms could have opposing effects: persistent inflammatory and senescence-associated signals might facilitate invasion, whereas reduced Schwann-cell plasticity might limit tumor-supportive repair programs.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1007/s11357-026-02676-z",
+  "title": "Lipid droplet dysmetabolism affects cell homeostasis in an in vitro model of Alzheimer\u2019s disease",
+  "link": "https://link.springer.com/article/10.1007/s11357-026-02676-z",
+  "abstract": "Lipid droplets (LD) are dynamic organelles involved in neutral lipid storage, energy homeostasis, and protection against lipotoxicity and oxidative stress. Dysregulated LD metabolism has emerged as a pathological hallmark of several neurodegenerative disorders, including Alzheimer\u2019s disease (AD). In this study, we investigated alterations in LD metabolism and their impact on mitochondria-associated membranes (MAM) using an in vitro AD model, namely mouse neuroblastoma N2A cells overexpressing the amyloid precursor protein carrying the familial Swedish mutation (APPswe). APPswe cells exhibited a marked depletion of LD accompanied by the accumulation of free fatty acids and triacylglycerol (TAG). These cells also displayed reduced levels of seipin, a key regulator of LD biogenesis and maintenance, potentially contributing to impaired TAG storage and LD formation. These lipid alterations were associated with increased reactive oxygen species (ROS) production and lipid peroxidation, suggesting impaired stress buffering capacity. Pharmacological modulation of diacylglycerol acyltransferase 1 (DGAT1), a key enzyme in TAG synthesis, was associated with an increase in LD size, improved endoplasmic reticulum-mitochondria contacts, and enhanced mitochondrial function in APPswe cells. Together, our data connect DGAT1-dependent lipid metabolism to both ER-mitochondria organization and mitochondrial membrane potential in this in vitro AD model. Graphical Abstract",
+  "journal": "GeroScience",
+  "publisher": "Springer",
+  "date": "2026-11-27T00:00:00+00:00",
+  "tags": [],
+  "topics": [],
+  "summary_short": "These lipid alterations were associated with increased reactive oxygen species (ROS) production and lipid peroxidation, suggesting impaired stress buffering capacity. Pharmacological modulation of diacylglycerol acyltransferase 1 (DGAT1), a key enzyme in TAG synthesis, was associated with an increase in LD size\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1111/acel.70856",
+  "title": "Correction to \u201cRepurposing Regulatory Rodent Toxicology Safety Archives to Identify Candidate Hormetic Longevity Agents Highlights Emergent Mitochondrial Mechanisms\u201d",
+  "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70856?af=R",
+  "abstract": "Aging Cell, Volume 25, Issue 12, December 2026.",
+  "journal": "Aging Cell",
+  "publisher": "Wiley",
+  "date": "2026-11-26T17:29:14+00:00",
+  "tags": [
+   "aging",
+   "longevity"
+  ],
+  "topics": [],
+  "summary_short": "Aging Cell, Volume 25, Issue 12, December 2026.",
+  "summary_source": "extractive"
+ },
+ {
   "id": "https://europepmc.org/article/MED/43076644",
   "title": "Latest Concepts in Meniscal Allograft Transplantation.",
   "link": "https://europepmc.org/article/MED/43076644",
@@ -140,6 +321,36 @@
   "summary_source": "extractive"
  },
  {
+  "id": "10.1111/acel.70840",
+  "title": "Isoacteoside Acts as a TLX\u2010Targeting Compound to Stimulate Neurogenesis and Ameliorate Cognitive Impairment in an A\u03b2\u2010Induced Alzheimer's\u2010Like Rat Model",
+  "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70840?af=R",
+  "abstract": "Aging Cell, Volume 25, Issue 12, December 2026.",
+  "journal": "Aging Cell",
+  "publisher": "Wiley",
+  "date": "2026-11-26T13:37:48+00:00",
+  "tags": [
+   "aging"
+  ],
+  "topics": [],
+  "summary_short": "Aging Cell, Volume 25, Issue 12, December 2026.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1111/acel.70862",
+  "title": "Aged Macrophage\u2010Derived Signaling Impairs Regulatory T Cell Induction and Is Associated With Persistent Intraocular Inflammation",
+  "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70862?af=R",
+  "abstract": "Aging Cell, Volume 25, Issue 12, December 2026.",
+  "journal": "Aging Cell",
+  "publisher": "Wiley",
+  "date": "2026-11-26T13:35:38+00:00",
+  "tags": [
+   "aging"
+  ],
+  "topics": [],
+  "summary_short": "Aging Cell, Volume 25, Issue 12, December 2026.",
+  "summary_source": "extractive"
+ },
+ {
   "id": "10.1111/acel.70857",
   "title": "Single\u2010Nucleus Transcriptomic Profiling of Dorsal Root Ganglia Reveals Pain\u2010Associated Alterations in Aged Mice With Musculoskeletal Degeneration",
   "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70857?af=R",
@@ -201,6 +412,128 @@
    "Metformin"
   ],
   "summary_short": "Furthermore, increased ER-\u03b1 expression in LE and GE of adropin treated HA mouse is indicative of increased estrogen responsiveness which might be responsible for increased COX-2 expression in these layers of endometrium. Increased E2 along with P4 in adropin treated HA mouse might be responsible for increased\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1152/ajpcell.90251.2026",
+  "title": "Spermidine improves fast-twitch muscle histopathology and specific-force, and select bone properties, in the mdx mouse model of Duchenne muscular dystrophy.",
+  "link": "https://doi.org/10.1152/ajpcell.90251.2026",
+  "abstract": "Duchenne muscular dystrophy (DMD), an X-linked recessive disease, primarily affects skeletal and cardiac muscle, leading to progressive muscle wasting and weakness, but is also associated with compromised bone quality and microstructure. Human and mdx mouse studies show that DMD is associated with impaired muscle autophagy. The polyamine, spermidine, is known to stimulate autophagy, which some studies have linked to the upregulation of the microtubule-associated MAP1S protein. Spermidine has been shown to improve aspects of collagen VI deficiency-induced myopathy, in part, by reactivating autophagy. Thus, it was hypothesized that spermidine supplementation would improve the muscle pathology of DMD mdx mice, which would be associated with enhanced markers of autophagy and MAP1S. The impact of spermidine on bone quality or microstructure was also assessed using Synchrotron-generated x-ray imaging and 3-point bending. Three-week-old wild type (WT) and mdx mice were supplemented with 3 mM spermidine in drinking water for 13 weeks. Spermidine had no impact on mdx slow-twitch soleus muscle histopathology or contractile function, but improved mdx fast-twitch EDL muscle mass and specific tetanic force, which was associated with reduced centrally localized nuclei and tissue infiltrate. Surprisingly, despite a spermidine-induced increase in MAP1S protein, there was no change in markers of autophagy or autophagic flux. Finally, spermidine increased mdx femur trabecular tissue volumetric",
+  "journal": "Longevity (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-26T00:00:00+00:00",
+  "tags": [
+   "autophagy"
+  ],
+  "topics": [],
+  "summary_short": "Spermidine had no impact on mdx slow-twitch soleus muscle histopathology or contractile function, but improved mdx fast-twitch EDL muscle mass and specific tetanic force, which was associated with reduced centrally localized nuclei and tissue infiltrate. Finally, spermidine increased mdx femur trabecular tissue\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1017/s0007485326101485",
+  "title": "Host preference and larval performance of &lt;i&gt;Eueides isabella dianasa&lt;/i&gt; (H\u00fcbner, 1806) (Lepidoptera: Nymphalidae: Heliconiinae) on &lt;i&gt;Passiflora&lt;/i&gt; spp. (Malpighiales: Passifloraceae).",
+  "link": "https://doi.org/10.1017/s0007485326101485",
+  "abstract": "Passion fruit crops ( Passiflora spp.) are affected by several insect pests, including defoliating caterpillars such as Eueides isabella dianasa (H\u00fcbner, 1806) (Nymphalidae: Heliconiinae), a Neotropical butterfly distributed from the United States and Mexico to southern Brazil, whose larvae feed on multiple Passiflora species. Understanding plant-insect interactions through host preference and suitability is essential for supporting effective pest management. Therefore, the objectives of this study were (i) to evaluate host preference and leaf consumption of E. i. dianasa on different Passiflora species and (ii) to compare its developmental performance and survival on these hosts. Overall, Passiflora alata Curtis and Passiflora cincinnata Mast. showed lower host preference, whereas Passiflora edulis Sims was the most attractive host for E. i. dianasa at 3 and 10 days of larval age. Leaf consumption differed significantly among the Passiflora species, with P. edulis showing the highest consumption (95.15%), followed by P. cincinnata (24.54%) and P. alata (0.70%). Regarding developmental performance, host plant species did not affect the duration or weight of the larval and pupal stages. However, significant effects were observed on larval survival, larval and pupal viability, and adult longevity. These findings indicate that P. edulis is a more suitable host for the development of E. i. dianasa than P. cincinnata and P. alata , whereas P. alata exhibited the lowest host suitab",
+  "journal": "Longevity (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-26T00:00:00+00:00",
+  "tags": [
+   "longevity"
+  ],
+  "topics": [],
+  "summary_short": "These findings indicate that P. edulis is a more suitable host for the development of E. i. dianasa than P. cincinnata and P. alata , whereas P. alata exhibited the lowest host suitab",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1093/ndt/gfag270",
+  "title": "From GLP-1 Receptor Agonism to Multi-Receptor Targeting in Kidney Disease.",
+  "link": "https://doi.org/10.1093/ndt/gfag270",
+  "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists are established kidney-protective therapy in type 2 diabetes with chronic kidney disease, and co-agonists and multi-agonists that also target the glucose-dependent insulinotropic polypeptide (GIP) and glucagon receptors are advancing. Most reviews address these agents as a single class. This narrative review examines the three receptors separately, distinguishing the renal efficacy of a molecule from the causal contribution attributable to each of its receptor targets, and addresses three questions. First, what is known about the renal actions of each receptor: GLP-1 receptor agonism is the only receptor profile for which a drug (semaglutide) has shown kidney benefit in a dedicated outcome trial (FLOW), although the receptor-specific mechanism in humans is not established, as natriuresis is acute, not sustained, and hemodynamic effects are context-dependent; no GIP receptor-specific renal signature has been established in humans; and glucagon receptor signaling appears bidirectional, with potentially protective tubular actions coexisting with a risk of hyperfiltration. Second, whether co-agonists and multi-agonists provide kidney benefit beyond GLP-1 receptor agonism alone: tirzepatide consistently reduces albuminuria and was associated with fewer major kidney events than dulaglutide in an exploratory analysis of SURPASS-CVOT, driven largely by new-onset macroalbuminuria, and glucagon-containing agents show early albuminuria s",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-26T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "GLP-1"
+  ],
+  "summary_short": "Second, whether co-agonists and multi-agonists provide kidney benefit beyond GLP-1 receptor agonism alone: tirzepatide consistently reduces albuminuria and was associated with fewer major kidney events than dulaglutide in an exploratory analysis of SURPASS-CVOT, driven largely by new-onset macroalbuminuria, and\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1152/ajpcell.90158.2026",
+  "title": "Effects of Glucagon-Like Peptide-1 on Inflammation-Related Gene Expression in Adipose Tissue of Women with Obesity.",
+  "link": "https://doi.org/10.1152/ajpcell.90158.2026",
+  "abstract": "Glucagon-like peptide-1 (GLP-1) is known to have anti-inflammatory activity; however, its effects on the chronic low-grade inflammation present in the adipose tissue of individuals with obesity remain unclear. This study investigated the effect of GLP-1 infusion on inflammation related gene expression in the adipose tissue of women with obesity. Eleven women with obesity (BMI > 30 kg/m 2 ), aged 28-63 years, participated in a single blind, randomized, crossover study comparing 4 h infusions of synthetic human GLP-1 (7- 36) at 0.9 pmol/kg/min and saline after an overnight fasting. Total RNA was isolated from subcutaneous adipose tissue biopsies collected before and immediately after each infusion. Expression of 249 inflammation-related genes from the Human Inflammation Panel was assessed. Compared with saline infusion, an approximately two-fold increase in circulating GLP-1 induced by GLP-1 infusion significantly downregulated the expression of the pro-inflammatory genes TNF , C2 , CD4 , and MAPKAPK2 during the fasting state, with a near-significant reduction in MMP9 and IL8 expression. Upregulation of the anti-inflammatory regulator TOLLIP was also observed. Collectively, these results indicate an anti-inflammatory effect of GLP-1. Additionally, MAP2K1 , MAP2K4 , RIPK2 , and PLA2G4A , genes involved in adipose tissue remodeling, were upregulated during GLP-1 infusion. These findings suggest that physiological increases in circulating GLP-1 exert predominantly anti-inflammator",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-26T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "GLP-1"
+  ],
+  "summary_short": "Collectively, these results indicate an anti-inflammatory effect of GLP-1. These findings suggest that physiological increases in circulating GLP-1 exert predominantly anti-inflammator",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1210/clinem/dgag477",
+  "title": "Gastric Emptying and GLP-1 Receptor Agonists in Postbariatric Hypoglycemia: No Glycemic Benefit Demonstrated.",
+  "link": "https://doi.org/10.1210/clinem/dgag477",
+  "abstract": "",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-26T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "GLP-1"
+  ],
+  "summary_short": "",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1080/15548627.2026.2761800",
+  "title": "MCOLN1/TRPML1 regulates lysosomal acidification through Ca&lt;sup&gt;2+&lt;/sup&gt;-CAMK2/CaMKII-DMXL1-mediated V-ATPase assembly in cellular and mouse models of Alzheimer disease.",
+  "link": "https://doi.org/10.1080/15548627.2026.2761800",
+  "abstract": "Alzheimer disease (AD) is characterized by progressive cognitive decline and amyloid beta (A\u03b2) pathology, with emerging evidence indicating that autophagy-lysosomal dysfunction acts as an early pathogenic event. However, the molecular mechanisms underlying these processes remain incompletely understood. This study demonstrated that MCOLN1/TRPML1 (mucolipin TRP cation channel 1), a lysosomal Ca 2+ channel, was consistently downregulated in the hippocampus of patients with AD, five familial Alzheimer disease mutations (5xFAD) mice, and neuroblastoma Neuro-2a cells stably expressing human APP695 (N2a-APP) cells. Knockdown of Mcoln1 specifically in the hippocampus of mice recapitulated key AD-related phenotypes, including impaired lysosomal acidification, defective autophagic degradation, lysosomal enlargement, A\u03b2 accumulation, dendritic spine loss, and cognitive deficits. Conversely, pharmacological activation with Mucolipin synthetic agonist 1 (ML-SA1) or genetic overexpression of MCOLN1 alleviated these abnormalities and mitigated A\u03b2 pathology and cognitive impairments in 5xFAD mice. Mechanistically, decreased MCOLN1 protein impaired the vacuolar H + -ATPase (V-ATPase) assembly, potentially via diminished DMXL1 (Dmx like 1) phosphorylation through the Ca 2+ -CAMK2/CaMKII (calcium/calmodulin dependent protein kinase II) signaling pathway. Additionally, ATF2 (activating transcription factor 2) was identified as a transcriptional activator of MCOLN1, with its downregulation contr",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-26T00:00:00+00:00",
+  "tags": [
+   "autophagy"
+  ],
+  "topics": [
+   "Rapamycin"
+  ],
+  "summary_short": "Alzheimer disease (AD) is characterized by progressive cognitive decline and amyloid beta (A\u03b2) pathology, with emerging evidence indicating that autophagy-lysosomal dysfunction acts as an early pathogenic event. However, the molecular mechanisms underlying these processes remain incompletely understood.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1017/s0007114526109532",
+  "title": "Dietary selenium deficiency causes insulin-like growth factor 1 resistance in skeletal muscle of zebrafish.",
+  "link": "https://doi.org/10.1017/s0007114526109532",
+  "abstract": "Selenium (Se), an essential trace element for humans and animals, is critical for skeletal muscle homeostasis. Its deficiency is associated with low muscle mass due to the inhibition of the target of rapamycin complex 1 (TORC1)-mediated protein synthesis. However, the mechanism by which dietary Se deficiency hinders TORC1-mediated muscle protein synthesis remains unclear. Insulin-like growth factor 1 (IGF1), a key upstream signaling molecule for TORC1, is pivotal in regulating muscle protein synthesis. This study evaluated whether dietary Se deficiency affects the transduction and transmission of IGF1 signaling in skeletal muscle using a zebrafish model, by manipulating dietary Se levels with Se-enriched yeast. Strikingly, dietary Se deficiency induced marked IGF1 resistance in skeletal muscle, characterized by elevated tissue IGF1 level but impaired transduction of both endogenous and exogenous IGF1 signaling from membrane receptor (IGF1 receptor/insulin receptor) to intracellular insulin receptor substrate 1 (IRS1). Mechanistically, dietary Se deficiency downregulated numerous antioxidant selenoproteins, increased reactive oxygen species (ROS) levels, activated the c-Jun N-terminal kinase (JNK), and increased the phosphorylation of IRS1 at Ser 307 and Ser 312 sites, suggesting involvement of the ROS-mediated JNK-IRS1 pathway in dietary Se deficiency-induced IGF1 resistance. Overall, this study identifies a novel mechanism linking dietary Se deficiency to impaired muscle ana",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-26T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "Rapamycin"
+  ],
+  "summary_short": "Its deficiency is associated with low muscle mass due to the inhibition of the target of rapamycin complex 1 (TORC1)-mediated protein synthesis. Mechanistically, dietary Se deficiency downregulated numerous antioxidant selenoproteins, increased reactive oxygen species (ROS) levels, activated the c-Jun N-terminal\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1080/03007995.2026.2762585",
+  "title": "Dose optimization study of hydroxychloroquine as add-on therapy in patients with uncontrolled type 2 diabetes mellitus.",
+  "link": "https://doi.org/10.1080/03007995.2026.2762585",
+  "abstract": "Objective Hydroxychloroquine (HCQ) is approved in India as third-line therapy for type 2 diabetes mellitus (T2DM) at a recommended daily dose of 400 mg. However, concerns regarding cumulative retinal toxicity with long-term use highlight the need to identify the lowest effective dose. This study evaluated the efficacy and short-term safety of HCQ 200 mg, 300 mg, and 400 mg once daily in patients with inadequately controlled T2DM. Methods In this randomized, double-blind, multicentre dose-optimization trial, adults with inadequately controlled T2DM despite stable metformin and sulfonylurea therapy were randomized to receive HCQ 200 mg, 300 mg, or 400 mg once daily for 24 weeks. Efficacy endpoints included changes in glycated haemoglobin (HbA1c), fasting, postprandial glucose, and lipid parameters at Weeks 12 and 24. Safety was assessed through adverse-event, laboratory investigations, and ophthalmologic evaluations. Results Overall, 218 participants were randomized (mean age 48.22 \u00b1 8.86 years; 58.7% male). At Week 24, mean HbA1c reductions from baseline were -0.64%, -0.78%, and -0.89% in the 200 mg, 300 mg, and 400 mg groups, respectively. Lipid parameters improved across groups. Sixteen participants experienced 23 adverse events; of which 82.6% unrelated to study medication. One serious adverse event, unrelated to HCQ, resolved without sequelae. No retinal abnormalities or ophthalmic adverse events were observed. Conclusion HCQ 200 mg, 300 mg, and 400 mg demonstrated clinica",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-26T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "Metformin"
+  ],
+  "summary_short": "Lipid parameters improved across groups.",
   "summary_source": "extractive"
  },
  {
@@ -889,6 +1222,70 @@
    "Taurine"
   ],
   "summary_short": "While microalgae can degrade emerging pollutants, the removal of per- and polyfluoroalkyl substances (PFASs) remains limited, which can be effectively improved via co-metabolism.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1002/osp4.70206",
+  "title": "Real-World Effectiveness of Semaglutide and Tirzepatide Versus Metformin for Adults on Antipsychotics.",
+  "link": "https://doi.org/10.1002/osp4.70206",
+  "abstract": "Objective Evidence for glucagon-like peptide-1 receptor agonists (GLP-1s) to treat antipsychotic-associated weight gain is limited. A comparison of 52-week weight loss with semaglutide/tirzepatide versus metformin in adults taking antipsychotics was conducted using nationwide electronic health record data. Methods A retrospective cohort study was conducted using the Truveta database. Inverse probability of treatment weighting was used to compare the percent initial weight loss between GLP-1 and metformin users. Weight loss by diabetes status, antipsychotic type, medication adherence, and type of GLP-1 medication (semaglutide vs. tirzepatide) was evaluated. Results The cohort included 10,424 adults initiating semaglutide or tirzepatide and 22,788 initiating metformin while taking antipsychotics. Mean weight change was -7.5% \u00b1 0.1% with GLP-1s versus -1.7% \u00b1 0.1% with metformin ( p p Conclusions Semaglutide and tirzepatide were associated with substantially greater weight loss than metformin in adults taking antipsychotics. Improving medication continuity may enhance treatment effectiveness in this population.",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-25T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "GLP-1",
+   "Metformin"
+  ],
+  "summary_short": "Mean weight change was -7.5% \u00b1 0.1% with GLP-1s versus -1.7% \u00b1 0.1% with metformin ( p p Conclusions Semaglutide and tirzepatide were associated with substantially greater weight loss than metformin in adults taking antipsychotics.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1111/cen.70238",
+  "title": "Autophagy Markers in Primary Hyperparathyroidism.",
+  "link": "https://doi.org/10.1111/cen.70238",
+  "abstract": "Objective This study aimed to evaluate serum Beclin-1, mechanistic target of rapamycin (mTOR) levels, and their associations with primary hyperparathyroidism (PHPT)-related biochemical changes and complications in patients with PHPT. Methods Forty-two individuals with PHPT and 42 healthy individuals without any systemic disease were included in the study. Serum Beclin-1 and mTOR levels were measured by the enzyme-linked immunosorbent assay method. Results Compared to controls, the PHPT group exhibited significantly lower serum Beclin-1 and higher mTOR levels. There was no significant difference in Beclin-1 and mTOR levels in PHPT cases with or without osteoporosis (OP) or urolithiasis. mTOR levels were positively correlated with parathyroid hormone (PTH), serum corrected calcium (cCa) and adenoma volume, and negatively correlated with 25OHD vitamin. Serum Beclin-1 level was positively correlated with phosphorus level and negatively correlated with PTH, cCa, and adenoma volume. Conclusion The altered profiles of mTOR and Beclin-1 in PHPT suggest an association between the disease state and suppressed systemic autophagic activity. This pattern correlates positively with parathyroid adenoma volume and disease severity markers (PTH and cCa).",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-25T00:00:00+00:00",
+  "tags": [
+   "autophagy",
+   "mtor"
+  ],
+  "topics": [
+   "Rapamycin"
+  ],
+  "summary_short": "Conclusion The altered profiles of mTOR and Beclin-1 in PHPT suggest an association between the disease state and suppressed systemic autophagic activity.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1080/09513590.2026.2767982",
+  "title": "Skin manifestations and prescribing patterns in polyendocrine metabolic ovarian syndrome: a multinational study.",
+  "link": "https://doi.org/10.1080/09513590.2026.2767982",
+  "abstract": "Objective To describe the clinical characteristics and treatments of women with PMOS-related skin concerns presenting to specialist clinics internationally and within the United Kingdom (UK). Methods This retrospective observational study included women with suspected or confirmed PMOS attending eight specialist centers across five countries between January 2020 and December 2023. No lower age limit was specified; all participants were aged \u226516 years. Clinical records provided data on dermatological manifestations and treatments, including doses and formulations, before and after specialist consultation. Results Of 1313 participants, 1041 (79.3%) had at least one dermatological manifestation; among these, 90.1% had hirsutism, 36.4% had acne, and 6.6% had specialist dermatological review. Metformin and progesterone-only pill predominated in the first and second medication records overall, respectively; in the UK, these were metformin and spironolactone. Prescribing varied significantly across countries and between UK centers. Hirsutism predominated across age groups. In the first medication record, metformin predominated except at ages 16-24, when the combined oral contraceptive pill predominated. Where documented, the most common doses were metformin 1000 mg/day and spironolactone 100 mg/day. Ethnicity closely aligned with recruitment country, limiting interpretation of ethnic differences. Conclusions Substantial variation exists in pharmacological prescribing patterns across",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-25T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "Metformin"
+  ],
+  "summary_short": "Objective To describe the clinical characteristics and treatments of women with PMOS-related skin concerns presenting to specialist clinics internationally and within the United Kingdom (UK). Methods This retrospective observational study included women with suspected or confirmed PMOS attending eight specialist\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.1080/00498254.2026.2770490",
+  "title": "Pharmacogenomic Modulators of Drug Transport, Detoxification, Oxidative Stress and Inflammation: Insights from SLC22A2, GSTP1, SOD2 and TNF-\u03b1 for precision medicine.",
+  "link": "https://doi.org/10.1080/00498254.2026.2770490",
+  "abstract": "Background: Interindividual variability in drug response remains a fundamental clinical problem, arising from the combined influence of genetic, physiological, and environmental factors. This review examines four pharmacogenomically significant genes, SLC22A2, GSTP1, SOD2 and TNF-\u03b1, involved in drug transport, detoxification, oxidative stress and inflammatory pathways. Method: Clinical evidence linking variants of these genes to altered drug responses, toxicity profiles and therapeutic outcomes was evaluated. Results: SLC22A2 (OCT2) influences renal uptake of metformin, cisplatin and aminoglycosides. Its variants modify treatment response, and increase individual susceptibility to nephrotoxicity and ototoxicity. GSTP1 is a major Phase II metabolic enzyme. Its variants affect detoxification, oxidative stress and may cause chemotherapy resistance. SOD2 is an antioxidant enzyme that protects mitochondria from damage. Its variants alter ROS handling and increase risk of anthracycline cardiotoxicity and platinum-induced tissue injury. TNF-\u03b1 variants amplify inflammatory cascades and are associated with variability in autoimmune drug response and immunotherapy-related inflammation. Conclusion: These genes act across interconnected pharmacokinetic and pharmacodynamic pathways, so studying their polymorphisms together can explain interindividual variability better than single-gene analysis. Combined genotyping of these genes has the potential to improve drug safety, toxicity predicti",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-25T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "Metformin"
+  ],
+  "summary_short": "SOD2 is an antioxidant enzyme that protects mitochondria from damage. TNF-\u03b1 variants amplify inflammatory cascades and are associated with variability in autoimmune drug response and immunotherapy-related inflammation.",
   "summary_source": "extractive"
  },
  {
@@ -2966,6 +3363,19 @@
   "summary_source": "extractive"
  },
  {
+  "id": "10.1093/ofid/ofag703",
+  "title": "Effects of a Microbiome-Targeted Diet on Cardiometabolic Risk in People Living With HIV: A Randomized Controlled Trial With Mediation Analysis.",
+  "link": "https://doi.org/10.1093/ofid/ofag703",
+  "abstract": "Background Cardiovascular disease (CVD) is a leading cause of morbidity among people living with HIV (PLWH), partly driven by gut microbiome dysbiosis. Whether microbiome-targeted dietary interventions can reduce CVD risk in this population remains unclear. We aimed to evaluate the effectiveness of a microbiome-targeted dietary intervention on CVD risk and gut microbiome in PLWH and to examine potential microbial mediation. Methods We conducted a 12-week, single-blind, parallel-group randomized controlled trial in PLWH with elevated CVD risk in China. Participants were assigned to a microbiome-targeted diet (n = 29), consisting of a culturally adapted, polyphenol-rich dietary pattern supplemented with Spirulina , or a control group receiving standard dietary advice (n = 31). The primary outcome was 10-year CVD risk estimated via pooled cohort equations (PCE). Secondary outcomes included cardiometabolic biomarkers and gut microbiota profiles assessed by 16S rRNA sequencing. Exploratory mediation analyses were conducted to evaluate indirect associations involving microbial taxa. Results In the primary analysis, the intervention was associated with reductions in PCE-estimated ASCVD risk ( P = .024), systolic blood pressure ( P P = .001). It also increased \u03b1 -diversity and induced compositional shifts, with decreased Klebsiella , Enterobacteriaceae , and Escherichia-Shigella and increased Prevotella stercorea , Faecalibacterium , and Sutterella wadsworthensis. Exploratory mediati",
+  "journal": "Longevity (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-21T00:00:00+00:00",
+  "tags": [],
+  "topics": [],
+  "summary_short": "Results In the primary analysis, the intervention was associated with reductions in PCE-estimated ASCVD risk ( P = .024), systolic blood pressure ( P P = .001). It also increased \u03b1 -diversity and induced compositional shifts, with decreased Klebsiella , Enterobacteriaceae , and Escherichia-Shigella and increased\u2026",
+  "summary_source": "extractive"
+ },
+ {
   "id": "https://www.nature.com/articles/s43587-026-01298-6",
   "title": "Author Correction: m 6 A epitranscriptomic regulation of tissue homeostasis during primate aging",
   "link": "https://www.nature.com/articles/s43587-026-01298-6",
@@ -3712,6 +4122,168 @@
   "summary_source": "extractive"
  },
  {
+  "id": "10.3390/jcm15229123",
+  "title": "Comparative Accuracy of a Commercial Multimodal Large Language Model Versus Clinicians in Dental Age and Sex Estimation from Panoramic Radiographs: A Benchmark Study.",
+  "link": "https://doi.org/10.3390/jcm15229123",
+  "abstract": "Background/Objectives: Routine dental imaging captures cumulative dentoalveolar and periodontal changes, offering a non-invasive window into both chronological aging and physiological senescence. While task-specific deep learning models have been widely explored in dental radiology, the zero-shot diagnostic performance of commercial Multimodal Large Language Models (MLLMs) in adult populations remains underinvestigated. The aim of this study was to benchmark the zero-shot diagnostic accuracy and repeatability of a commercial MLLM against human clinicians of varying experience levels in estimating adult dental age and biological sex from panoramic radiographs (OPGs), using documented chronological age and biological sex as the ground truth. Methods: From 216 initially screened records, this retrospective single-center study included 127 standardized, anonymized OPGs from patients (74 men, 53 women; mean chronological age 55.5 \u00b1 15.8 years, range 18-90 years) treated at the Clinical Department of Cranio-Maxillofacial Surgery, Military Institute of Medicine-National Research Institute in Warsaw. Each radiograph was independently evaluated across three trials by Gemini 3.1 Pro (Google, Mountain View, CA, USA) and once by two clinicians-a maxillofacial specialist (>10 years of experience) and a resident ( Results: Gemini 3.1 Pro demonstrated excellent repeatability across the three trials (ICC(A,1) = 0.926, ICC(A,3) = 0.974; p = 0.156) and moderate agreement with chronological age",
+  "journal": "Longevity (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [
+   "aging",
+   "senescence"
+  ],
+  "topics": [],
+  "summary_short": "Background/Objectives: Routine dental imaging captures cumulative dentoalveolar and periodontal changes, offering a non-invasive window into both chronological aging and physiological senescence. While task-specific deep learning models have been widely explored in dental radiology, the zero-shot diagnostic\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.3390/nu18223877",
+  "title": "Real-World Twelve-Month Weight Loss Outcomes in a Comprehensive Obesity Care Program Utilizing Individualized Nutrition Therapy and Incretin-Based Obesity Medications.",
+  "link": "https://doi.org/10.3390/nu18223877",
+  "abstract": "Background/Objectives: Incretin-based obesity medications (IOMs) produce substantial weight loss, but the added benefit of structured nutritional therapy remains unclear. We compared 12-month weight loss between individualized carbohydrate-reduced nutritional therapy plus IOMs (VINT + IOM) and IOM-based care without structured nutritional therapy (IOM only). Methods: In this retrospective cohort study of 4269 adults in a telemedicine obesity care program (VINT + IOM, n = 1658; IOM only, n = 2611), both pathways included clinician-guided medication management and behavioral coaching. The primary analysis included GLP-1-na\u00efve participants on a single ingredient (semaglutide or tirzepatide). Adjusted weight change was estimated using longitudinal linear mixed-effects models. Results: Retention through 12 months was 77% (VINT + IOM) vs. 72% (IOM only). In GLP-1-na\u00efve semaglutide users, adjusted 12-month weight loss was greater with VINT + IOM than IOM only (13.9 vs. 10.9 kg; difference 3.0 kg, 95% CI 0.6-5.4; p = 0.012); observed loss was 13.3% vs. 11.1%. In tirzepatide users, adjusted loss was 20.8 vs. 15.6 kg (difference 5.2 kg, 95% CI 1.8-8.7; p = 0.003); observed loss was 19.7% vs. 15.6%. Responder rates favored VINT + IOM. In the overall cohort, adjusted loss was 13.3 vs. 9.8 kg ( p Conclusions: Adding individualized carbohydrate-reduced nutritional therapy to IOM-based care was associated with greater 12-month weight loss than IOM-based care without structured nutritional t",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [
+   "nutrition"
+  ],
+  "topics": [
+   "GLP-1"
+  ],
+  "summary_short": "We compared 12-month weight loss between individualized carbohydrate-reduced nutritional therapy plus IOMs (VINT + IOM) and IOM-based care without structured nutritional therapy (IOM only). 9.8 kg ( p Conclusions: Adding individualized carbohydrate-reduced nutritional therapy to IOM-based care was associated with\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.3390/ijms272210463",
+  "title": "GLP-1 Receptor Agonist Restores Obesity-Induced Impairment of Taste-Guided Appetitive Behaviors Through Striatum Gi Signaling.",
+  "link": "https://doi.org/10.3390/ijms272210463",
+  "abstract": "Diet-induced obesity (DIO) influences taste-guided behavior; however, the neural mechanism remains unclear. We investigated how DIO and administration of semaglutide (Sema), a glucagon-like peptide-1 receptor agonist, affect behavioral responses to basic tastes in mice using a brief-access taste test. The same mice were assessed repeatedly from lean to DIO conditions. Those with DIO selectively exhibited reduced preference for appetitive tastes, including sweet, umami, and fat, whereas their preference for aversive tastes, such as bitter and sour, was largely comparable to those observed when the mice were lean. Sema treatment in DIO mice restored preference toward appetitive tastes. However, this effect was not reproduced by pair-feeding or dietary restriction, indicating that recovery of taste-guided behavior was not solely because of calorie restriction. As DIO decreases cell surface expression of the Gi-coupled dopamine type 2 receptor in the striatum to alter food-related behaviors, we chemogenetically activated Gi-coupled designer receptors exclusively activated by designer drugs (DREADDs). Chemogenetic activation of Gi-DREADD in the striatum restored the reduced sweet taste response even in DIO mice. Thus, Sema reversed impaired preference for appetitive tastes in DIO mice. Specifically, Gi signaling in the striatum may contribute to this restoration.",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [
+   "dietary restriction"
+  ],
+  "topics": [
+   "GLP-1"
+  ],
+  "summary_short": "Those with DIO selectively exhibited reduced preference for appetitive tastes, including sweet, umami, and fat, whereas their preference for aversive tastes, such as bitter and sour, was largely comparable to those observed when the mice were lean. Chemogenetic activation of Gi-DREADD in the striatum restored the\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.3390/ijms272210458",
+  "title": "Helodermatid Venom Exendins: Evolutionary Diversification, Receptor Pharmacology, and Biomedical Translation.",
+  "link": "https://doi.org/10.3390/ijms272210458",
+  "abstract": "Helodermatid exendins provide a framework for examining how venom peptide diversification relates to receptor recognition and biomedical potential. This narrative review integrates published evolutionary models with sequence, structural, and pharmacological evidence for helospectins, helodermin, and exendins-3 and -4. A complementary maximum-likelihood analysis compares 17 precursor-length records and 18 peptide-core records, distinguishing characterized Heloderma sequences from homology-based predictions. Precursor and signal/propeptide analyses support the exendin-3/exendin-4 pair, while the peptide-core analysis supports the helospectin/helodermin pair, revealing region-dependent sequence relationships. We examine how amino acid substitutions, C-terminal variation, and post-translational modifications relate to interactions with class B1 G protein-coupled receptors. Helospectins exhibit species-dependent receptor preferences, while comparisons between exendin-3 and exendin-4 associate limited N-terminal variation with distinct pharmacological profiles in historical pancreatic assays. These observations connect molecular diversity with experimental pharmacology while keeping sequence relationships distinct from receptor selectivity and biological function. Exendin-4-derived therapeutics and imaging agents illustrate the biomedical development of a venom peptide scaffold. Together, the literature synthesis and comparative sequence analysis provide a clearer basis for investi",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [],
+  "topics": [],
+  "summary_short": "Helodermatid exendins provide a framework for examining how venom peptide diversification relates to receptor recognition and biomedical potential. This narrative review integrates published evolutionary models with sequence, structural, and pharmacological evidence for helospectins, helodermin, and exendins-3 and -4.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.3390/jcm15229115",
+  "title": "Cardiometabolic Multimorbidity in Older Adults: Risk Assessment, Individualised Treatment, and Evidence Gaps.",
+  "link": "https://doi.org/10.3390/jcm15229115",
+  "abstract": "Cardiometabolic multimorbidity, encompassing combinations of hypertension, diabetes, dyslipidaemia, obesity, and cardiovascular disease, is highly prevalent in older adults and drives excess mortality, disability, and healthcare utilisation. Yet, older adults-especially those \u226575 years with frailty, multimorbidity, or cognitive impairment-remain underrepresented in pivotal cardiometabolic randomised trials, limiting the applicability of current risk scores, treatment thresholds, and guideline recommendations to geriatric patients. This narrative review synthesises the contemporary evidence on cardiometabolic medicine in older adults, highlighting the gaps in epidemiology, risk stratification, therapeutic decision-making, and patient-centred outcomes. Emerging data confirm that the clustering of cardiometabolic risk factors is associated with steeply increased risks of sudden cardiac death, heart failure, and all-cause mortality in ageing populations, but robust intervention trials targeting these clusters in older, frail individuals are scarce. Furthermore, evidence for newer pharmacologic agents (such as SGLT2 inhibitors, GLP-1 receptor agonists, and PCSK9 inhibitors) in the oldest-old with functional impairment and polypharmacy is limited, leading to wide practice variation and frequent extrapolation from younger cohorts. The review is structured thematically to address the following: the epidemiology and phenotypes of cardiometabolic multimorbidity in older adults; the lim",
+  "journal": "GLP-1 (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [
+   "ageing"
+  ],
+  "topics": [
+   "GLP-1"
+  ],
+  "summary_short": "Emerging data confirm that the clustering of cardiometabolic risk factors is associated with steeply increased risks of sudden cardiac death, heart failure, and all-cause mortality in ageing populations, but robust intervention trials targeting these clusters in older, frail individuals are scarce.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.3390/ph19111850",
+  "title": "Appraising Evidence for Hippocampal Synaptic Restoration by Traditional Chinese Medicine-Derived Antidepressant Interventions: Causality, Exposure, and Translation.",
+  "link": "https://doi.org/10.3390/ph19111850",
+  "abstract": "Traditional Chinese medicine (TCM)-derived interventions have been associated with antidepressant-like behavioral effects and changes in markers of hippocampal plasticity, but evidence of functional synaptic recovery remains limited. This critical narrative review evaluates 29 purposively selected preclinical reports using six qualitative appraisal domains: mechanistic causality, independent replication, anatomical resolution, methodological reporting, central target exposure, and clinical translation. The selected reports examined interventions including Yueju, Xiaoyaosan, ginsenoside Rb1, baicalin, and danshensu in stress-based models and behavioral screening paradigms. Behavioral effects and changes in AMPA receptor-associated signaling, brain-derived neurotrophic factor (BDNF) and its receptor tropomyosin receptor kinase B (TrkB), mechanistic target of rapamycin (mTOR), and synaptic proteins were frequently reported; however, these findings cannot substitute for direct measurements of synaptic physiology. Studies of repeated-dose Rb1 and baicalin reported hippocampal cornu ammonis area 1 (CA1) long-term potentiation (LTP). In the Rb1 study, miR-134 perturbation was tested against the LTP endpoint, whereas TrkB inhibition in the baicalin study was evaluated against behavioral outcomes in separate experiments. Zhi-Zi-Chi-Tang (ZZCT) was also associated with improved CA1 LTP, but 14-3-3\u03b6 knockdown was not tested against that functional endpoint. Unclear animal-versus-slice d",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [
+   "mtor"
+  ],
+  "topics": [
+   "Rapamycin"
+  ],
+  "summary_short": "Traditional Chinese medicine (TCM)-derived interventions have been associated with antidepressant-like behavioral effects and changes in markers of hippocampal plasticity, but evidence of functional synaptic recovery remains limited. Zhi-Zi-Chi-Tang (ZZCT) was also associated with improved CA1 LTP, but 14-3-3\u03b6\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.3390/ijms272210491",
+  "title": "Potential Links Between Ribosome-Related Stress and Cardiac Metabolic Remodeling in Heart Failure: A Narrative Review of the Evidence and Open Hypotheses.",
+  "link": "https://doi.org/10.3390/ijms272210491",
+  "abstract": "Heart failure (HF) is accompanied by marked cardiac metabolic remodeling and disordered energy metabolism. Previous studies have focused mainly on mitochondrial dysfunction and abnormal substrate use. The contribution of translational regulation to HF-associated metabolic remodeling remains poorly understood. Ribosomes are the core sites of protein synthesis. They also take part in cellular stress responses and metabolic homeostasis. In HF, cardiac ribosome biogenesis is stage-dependent: early pressure overload and myocardial infarction can transiently increase pre-rRNA synthesis, whereas reduced markers of rRNA synthesis have been reported mainly in advanced cardiomyopathy. Nucleolar alterations have also been observed after myocardial infarction. Oxidative stress can damage mature ribosomes in non-cardiac systems, but whether this occurs in cardiomyocytes remains unknown. Ribosome-related stress may influence translational programs through eukaryotic translation initiation factor 2 subunit alpha (eIF2\u03b1)/activating transcription factor 4 (ATF4), p53, and mammalian target of rapamycin (mTOR)/AMP-activated protein kinase (AMPK) signaling. These pathways may be associated with impaired glucose utilization, reduced fatty acid oxidation, altered ketone-body metabolism, and branched-chain amino acid (BCAA) accumulation, although evidence strength varies among pathways. This review summarizes current evidence that links ribosome-related stress to HF-associated metabolic imbalance. ",
+  "journal": "Rapamycin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [
+   "mitochondrial dysfunction",
+   "mtor"
+  ],
+  "topics": [
+   "Rapamycin"
+  ],
+  "summary_short": "In HF, cardiac ribosome biogenesis is stage-dependent: early pressure overload and myocardial infarction can transiently increase pre-rRNA synthesis, whereas reduced markers of rRNA synthesis have been reported mainly in advanced cardiomyopathy. These pathways may be associated with impaired glucose utilization\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.3390/nu18223871",
+  "title": "Renal Complement, Proteasome, and Inflammasome Alterations in Obesity-Associated NAFLD.",
+  "link": "https://doi.org/10.3390/nu18223871",
+  "abstract": "Background/Objectives: Obesity-associated nonalcoholic fatty liver disease (Ob-NAFLD) is associated with an increased risk of kidney injury; however, the cellular pathways contributing to renal damage remain incompletely understood. Our previous studies using the Zucker rat model demonstrated that Ob-NAFLD is associated with renal injury, inflammation, oxidative stress, apoptosis, and mitochondrial abnormalities, with only partial improvement following metformin treatment. These findings suggest that multiple interacting cellular stress pathways may contribute to the persistence of renal injury. Based on these findings, the present study examined complement-, proteasome-, and inflammasome-associated proteins as additional components of the renal pathology. Methods: Female lean and obese Zucker rats were maintained on an AIN-93G diet and assigned to four groups: Lean, Lean + metformin, Ob-NAFLD, and Ob-NAFLD + metformin. Metformin was incorporated into the diet at 1 g/kg for 10 weeks. Kidney tissues collected from these animals were analyzed via Western blotting for complement-associated proteins and fragments, constitutive and immunoproteasome components, and NLRP3 inflammasome-associated proteins. Results: Compared with lean controls, Ob-NAFLD kidneys showed significantly increased levels of the C3 processing fragments iC3b and iC3dg, C5\u03b1, and CD88/C5aR1, whereas C3\u03b1 showed a nonsignificant increasing trend. Several constitutive proteasome subunits, including RPT6, PSMA4, an",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "Metformin"
+  ],
+  "summary_short": "These findings suggest that multiple interacting cellular stress pathways may contribute to the persistence of renal injury. Results: Compared with lean controls, Ob-NAFLD kidneys showed significantly increased levels of the C3 processing fragments iC3b and iC3dg, C5\u03b1, and CD88/C5aR1, whereas C3\u03b1 showed a\u2026",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.3390/biom16111687",
+  "title": "Type 2 Diabetes Amplifies Lactate Mediation of the Association Between &lt;i&gt;GCKR&lt;/i&gt; rs1260326 and Circulating N-Lactoyl Phenylalanine.",
+  "link": "https://doi.org/10.3390/biom16111687",
+  "abstract": "N-lactoyl phenylalanine (Lac-Phe) is a circulating metabolite linked to exercise, energy metabolism, and metabolic disease. However, the metabolic determinants of circulating Lac-Phe and the influence of type 2 diabetes (T2D) on these pathways remain incompletely understood. We investigated whether the functional GCKR variant rs1260326, a strong genetic determinant of circulating lactate, is associated with Lac-Phe and whether lactate mediates this association. Genomic and clinical data were analyzed in 11,118 Qatar Biobank participants, including 2810 with untargeted metabolomic profiles. Associations of rs1260326 T-allele dosage with Lac-Phe, lactate, phenylalanine, and clinical traits were evaluated using additive linear regression adjusted for confounders. Lactate mediation of the rs1260326-Lac-Phe association was assessed using nonparametric bootstrapping and repeated after stratification by T2D status. Each copy of the rs1260326 T allele was associated with higher circulating Lac-Phe (\u03b2 = 0.103, FDR = 1.7 \u00d7 10 -4 ) and lactate (\u03b2 = 0.109, FDR = 1.7 \u00d7 10 -4 ), but not with phenylalanine (FDR = 0.95). The variant was also associated with higher triglycerides and uric acid and lower glucose. Lac-Phe and lactate associations were present in both non-T2D and T2D participants, with larger effect estimates in T2D. Lactate mediated the rs1260326-Lac-Phe association more strongly in the T2D group (43.5%) compared to the control group (13.2%). Metformin adjustment produced minima",
+  "journal": "Metformin (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [
+   "exercise"
+  ],
+  "topics": [
+   "Metformin"
+  ],
+  "summary_short": "Each copy of the rs1260326 T allele was associated with higher circulating Lac-Phe (\u03b2 = 0.103, FDR = 1.7 \u00d7 10 -4 ) and lactate (\u03b2 = 0.109, FDR = 1.7 \u00d7 10 -4 ), but not with phenylalanine (FDR = 0.95). The variant was also associated with higher triglycerides and uric acid and lower glucose.",
+  "summary_source": "extractive"
+ },
+ {
+  "id": "10.3390/metabo16110921",
+  "title": "Combined Ligustrazine and Sinomenine Treatment Attenuates Neuropathic Pain and Associated Emotional Disturbances with Changes in Cortical Oxylipin and Neurotransmitter Metabolism.",
+  "link": "https://doi.org/10.3390/metabo16110921",
+  "abstract": "Background: Neuropathic pain (NP) is accompanied by emotional disturbances. Although ligustrazine (LGZ) and sinomenine (SIN) have analgesic effects, their combined effects on NP-related emotional changes and underlying mechanisms remain unclear. Purpose: To investigate the effects of LGZ + SIN on pain, emotional behaviors, and cortical metabolism in chronic constriction injury (CCI) rats. Methods: A Public Evidence-informed Prioritization-Multi-omics Discovery-Targeted Validation (PMT) framework integrated cross-disease transcriptomic analysis and gene set enrichment analysis (GSEA) with behavioral assessments, plasma inflammatory measurements, cortical metabolomics, customized polyunsaturated fatty acid (PUFA)-oxylipin annotation, targeted profiling, and pathway-based network analysis. Results: Cross-disease analysis identified 244 differentially expressed genes (DEGs) and 121 DEG-GSEA candidates; 19 showed directionally concordant, nominally significant changes in independent cohorts, mainly in NP and depression, with none validated for anxiety. LGZ + SIN increased mechanical withdrawal thresholds and improved selected emotion-related behaviors, alongside exploratory changes in peripheral inflammatory markers. Cortical metabolomics revealed decreased glutathione, GABA, and acetylcholine and increased taurine-conjugated bile acids in Model rats. LGZ + SIN reduced elevated hippurate and suberate. A customized PUFA-oxylipin metabolic pathway library (Version 2.0), comprising o",
+  "journal": "Taurine (Europe PMC)",
+  "publisher": "Europe PMC",
+  "date": "2026-11-20T00:00:00+00:00",
+  "tags": [],
+  "topics": [
+   "Taurine"
+  ],
+  "summary_short": "Cortical metabolomics revealed decreased glutathione, GABA, and acetylcholine and increased taurine-conjugated bile acids in Model rats. LGZ + SIN reduced elevated hippurate and suberate.",
+  "summary_source": "extractive"
+ },
+ {
   "id": "10.1111/acel.70803",
   "title": "Single\u2010Nucleus RNA Sequencing Identifies MBOAT1 Governs Schwann Cell Senescence Through the cGAS\u2013STING\u2013p\u2010TBK1 Signaling Axis in the Aging Peripheral Nerve",
   "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70803?af=R",
@@ -3907,563 +4479,6 @@
   ],
   "topics": [],
   "summary_short": "Extreme longevity is accompanied by cardiac molecular remodelling, yet the basis of sex-associated adaptation during late-life aging remains incompletely understood. Here, we performed cardiac proteomic and multi-compartment metabolomic profiling metabolomic profiling of heart tissue, serum, and urine from naturally\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1093/ajrccm/aamag613",
-  "title": "Glucagon-Like Peptide-1 Agonists or Tezepelumab for Obesity-Associated Asthma: A Cohort Study.",
-  "link": "https://doi.org/10.1093/ajrccm/aamag613",
-  "abstract": "Rationale Obesity is associated with poor asthma outcomes. GLP-1 and dual GLP-1/GIP receptor agonists induce weight loss and dampen airway inflammation independent of pathways currently targeted by biologics. Objective To compare differences in respiratory outcomes and weight loss between GLP-1-based medications and tezepelumab in asthma patients without diabetes. Methods A retrospective study was performed in a multi-institutional electronic health record database. Patients with specialist-treated, obesity-associated, moderate-to-severe asthma with at least one severe exacerbation in the prior year who initiated liraglutide, semaglutide, tirzepatide, or tezepelumab between January 1, 2022 and December 31, 2025 were identified. Prevalent diabetes was excluded. Patients were followed for subsequent exacerbations, rescue inhaler prescriptions, respiratory-related healthcare encounters, and time to greater than 10% loss in body mass index. Overlap weighting accounted for imbalance in baseline asthma and obesity characteristics. Results 2779 patients were identified, of whom 133 initiated liraglutide, 1770 semaglutide, 472 tirzepatide, and 404 tezepelumab. In weighted estimates, patients starting tirzepatide experienced a lower hazard of severe exacerbation compared to tezepelumab (weighted hazard ratio [wHR] 0.41; 95% confidence interval [CI] 0.24-0.70); those starting semaglutide had a similar hazard (wHR 0.99; 95% CI 0.70-1.39). Tirzepatide and semaglutide initiators attained ",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "Rationale Obesity is associated with poor asthma outcomes.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1038/s41574-026-01324-y",
-  "title": "Managing post-bariatric weight recurrence with new obesity management medications.",
-  "link": "https://doi.org/10.1038/s41574-026-01324-y",
-  "abstract": "Recurrent weight gain (RWG) following metabolic and bariatric surgery (MBS) represents a major challenge in the long-term management of obesity and is distinct from insufficient weight loss and suboptimal clinical response, which reflect a primary inadequate response. RWG is defined as regain of \u226525% of the maximum weight lost, assessed \u226524 months after surgery. It affects approximately 35% of patients within 5 years of sleeve gastrectomy and approximately 15% within 5 years after Roux-en-Y gastric bypass. With longer follow-up, the number of affected patients rises to about one-third. RWG is multifactorial: genetic predisposition, preoperative metabolic phenotype, inadequate or failed surgical anatomy, and neurohormonal and adipose tissue adaptations interact over time to cause it, and no single variable accounts for it. Randomized evidence indicates that the operation itself is a determinant of long-term response: Roux-en-Y gastric bypass elicits greater postprandial GLP1 secretion, more durable weight loss and higher rates of type 2 diabetes mellitus remission than sleeve gastrectomy, so procedure selection warrants as much attention as postoperative management. Treatment should therefore be specific to phenotype and procedure, escalating from lifestyle optimization to obesity management medications, endoscopic revision and revisional surgery, if needed. Randomized data now support semaglutide after MBS, whereas evidence for tirzepatide, combined endoscopic-pharmacological",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "Randomized evidence indicates that the operation itself is a determinant of long-term response: Roux-en-Y gastric bypass elicits greater postprandial GLP1 secretion, more durable weight loss and higher rates of type 2 diabetes mellitus remission than sleeve gastrectomy, so procedure selection warrants as much\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1038/s41467-026-79412-w",
-  "title": "Impacts of medications for obesity on global health and the environment.",
-  "link": "https://doi.org/10.1038/s41467-026-79412-w",
-  "abstract": "A new generation of medications for obesity could transform the global food system. While research has explored their health impacts, their implications for global food demand and land use remain unquantified. We apply a global food system model to project the impact of glucagon-like peptide-1 receptor agonist (GLP-1) uptake to 2050 among people with obesity under two scenarios: reduced calorie intake while maintaining dietary composition, and reduced calorie intake combined with shifts towards the EAT-Lancet diet. Compared with the Reference scenario, GLP-1-mediated calorie reduction alone results in up to 6.6 million avoided deaths globally in 2050 and 32 Mha more natural land area, reflecting reductions in cropland, pasture and managed forest. Combining GLP-1 use with EAT-Lancet dietary shifts increases these estimates to 7.7 million avoided deaths and 46 Mha more natural land. Lower food prices increase food consumption among untreated populations, including unhealthy foods, partially offsetting these gains.",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "We apply a global food system model to project the impact of glucagon-like peptide-1 receptor agonist (GLP-1) uptake to 2050 among people with obesity under two scenarios: reduced calorie intake while maintaining dietary composition, and reduced calorie intake combined with shifts towards the EAT-Lancet diet.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1111/dom.71565",
-  "title": "Testosterone Added to Incretin Therapy in Men With Overweight or Obesity: A Systematic Review of Body Composition Evidence and Gaps.",
-  "link": "https://doi.org/10.1111/dom.71565",
-  "abstract": "Aims To characterize body-composition evidence and muscle and safety gaps for testosterone replacement therapy (TRT) added to incretin treatment in men with overweight or obesity and hypogonadism. Materials and methods PROSPERO CRD420261489220. Seven databases and two registries were searched through 4 September 2026; citations were checked on 10 September. Eligible studies compared concurrent TRT with a comparable incretin regimen without TRT or examined baseline androgen status longitudinally. The original eight reports underwent independent assessment. Following joint initial screening, 300 randomly sampled units were independently rescreened. ROBINS-I, RoB 2 and GRADE informed synthesis by design and outcome. Results Two reports provided non-equivalent body-composition outcomes with very low certainty. Neither established incremental TRT benefit. In a nonrandomized pilot (five men per group), the final DXA lean-mass difference was +2.70 kg (exploratory, unadjusted 95% CI -1.75 to +7.15); the descriptive difference in changes was +2.1 kg, with change-score dispersion unavailable. A randomized conference report (266 men across five arms; comparison-arm sizes unavailable) attributed 26% versus 38% of weight loss to fat-free mass with versus without TRT. These observations do not corroborate a common biological effect. No usable TRT-specific strength, function or safety comparisons or eligible baseline-androgen analyses were identified. Two unclassified registry entries limit",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "Aims To characterize body-composition evidence and muscle and safety gaps for testosterone replacement therapy (TRT) added to incretin treatment in men with overweight or obesity and hypogonadism. Materials and methods PROSPERO CRD420261489220.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1111/dom.71538",
-  "title": "Effects of a Prebiotic Functional Soda on Gastrointestinal Symptoms in Adults Receiving GLP-1-Based Therapy for Weight Management: A Randomized Controlled Pilot Trial.",
-  "link": "https://doi.org/10.1111/dom.71538",
-  "abstract": "Aims Gastrointestinal (GI) adverse effects are common during glucagon-like peptide-1 (GLP-1)-based therapy and may negatively affect quality of life (QOL) and treatment persistence. This pilot evaluated the effects of daily consumption of a prebiotic functional soda on GI symptom burden in adults who recently initiated GLP-1-based therapy for weight management. Materials and methods In this open-label, randomized controlled pilot, 80 adults receiving semaglutide or tirzepatide for weight management and experiencing at least one GI symptom were randomized 1:1 to consume a prebiotic functional soda (OLIPOP; 1 can/day, with the option of 2 cans/day) for 4 weeks or continue their usual free-living fluid intake. The primary outcome was change in Gastrointestinal Symptom Rating Scale (GSRS) total score. Secondary outcomes included GSRS subscales, health-related QOL (SF-36), stool characteristics and frequency, appetite and cravings, dietary intake and GI rescue medication use. Results Sixty-eight participants completed the study (intervention, n = 36; control, n = 32). GSRS total score decreased significantly more with the prebiotic functional soda than control (adjusted least-squares [LS] mean change, -0.931 vs. -0.405; between-group difference, -0.526 [95% CI: -0.713 to -0.339]; p Conclusions Four weeks of daily prebiotic functional soda consumption was associated with greater reductions in participant-reported GSRS scores compared with usual fluid intake among adults receiving G",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "GSRS total score decreased significantly more with the prebiotic functional soda than control (adjusted least-squares [LS] mean change, -0.931 vs. -0.405; between-group difference, -0.526 [95% CI: -0.713 to -0.339]; p Conclusions Four weeks of daily prebiotic functional soda consumption was associated with greater\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1016/j.clinthera.2026.10.011",
-  "title": "Associations of GLP-1 Receptor Agonist Usage With Clinical Outcomes of Limb Osteomyelitis in Type 2 Diabetes.",
-  "link": "https://doi.org/10.1016/j.clinthera.2026.10.011",
-  "abstract": "Purpose Patients with type 2 diabetes are prone to limb osteomyelitis, a condition associated with high morbidity and mortality. The relationship between glucagon-like peptide-1 receptor agonist (GLP-1RA) use and outcomes in these patients remains unclear. Methods We performed a retrospective cohort study using a large federated database from 2015 to 2024. Adult patients with type 2 diabetes (ICD-10 E11) and limb osteomyelitis were identified. GLP-1RA exposure was defined as use within 6 months prior to the diagnosis of osteomyelitis. Patients with end-stage renal disease, malignancy, or human immunodeficiency virus infection were excluded. Outcomes included all-cause mortality, amputation, sepsis, major adverse cardiovascular events, acute respiratory distress syndrome, and acute kidney injury. Propensity score matching was applied to balance baseline characteristics and disease severity. Findings A total of 21,858 patients were identified. After propensity score matching, 2615 patients remained in each cohort with balanced baseline characteristics. GLP-1RA use was associated with lower mortality, with rates of 1.0% at 6 months (HR 0.48, 95% confidence interval [CI] 0.30-0.78) and 4.7% at 3 years (HR 0.62, 95% CI 0.49-0.78). Compared with non-users, GLP-1RA users also had lower risks of amputation, sepsis, acute respiratory distress syndrome, and acute kidney injury. No significant differences were observed in major adverse cardiovascular events at either 6 months (odds rati",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "Purpose Patients with type 2 diabetes are prone to limb osteomyelitis, a condition associated with high morbidity and mortality. GLP-1RA use was associated with lower mortality, with rates of 1.0% at 6 months (HR 0.48, 95% confidence interval [CI] 0.30-0.78) and 4.7% at 3 years (HR 0.62, 95% CI 0.49-0.78).",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1016/j.amjcard.2026.11.023",
-  "title": "Cardiovascular Outcomes of Semaglutide in Adults With Congenital Heart Disease.",
-  "link": "https://doi.org/10.1016/j.amjcard.2026.11.023",
-  "abstract": "Adults with congenital heart disease (ACHD) increasingly develop type 2 diabetes mellitus (T2DM) and obesity, yet are excluded from cardiovascular outcome trials, and the effects of semaglutide here are unknown. Using the TriNetX Research Network, we conducted a retrospective new-user active-comparator study of adults with ACHD and T2DM initiating semaglutide (n = 2,385) or a dipeptidyl peptidase-4 (DPP-4) inhibitor (n = 2,889) from December 2017 to December 2025. Cohorts were 1:1 propensity score matched, yielding 1,422 pairs followed for 3 years, with a sensitivity analysis matched on 27 lesion categories. Semaglutide was associated with lower all-cause mortality (7% vs 12%; hazard ratio [HR] 0.66, 95% confidence interval [CI] 0.51 to 0.85), hospitalization (40% vs 55%; HR 0.68, CI 0.61 to 0.76), and emergency department (ED) visits (35% vs 43%; HR 0.85, CI 0.75 to 0.96). Major adverse cardiovascular events (HR 0.71), heart failure (HR 0.74), and stroke (HR 0.65) were also lower; myocardial infarction and arrhythmia were not. Mortality, hospitalization, and ED visits were significant at 1, 3, and 5 years and in every sensitivity analysis; the cardiovascular associations were not. Congenital aortic valve disease was twice as common among semaglutide initiators before matching (23% vs 12%), and every great-complexity lesion comprised \u226410 patients per arm. A prespecified negative control was elevated in every analysis. In conclusion, semaglutide was associated with lower morta",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "Semaglutide was associated with lower all-cause mortality (7% vs 12%; hazard ratio [HR] 0.66, 95% confidence interval [CI] 0.51 to 0.85), hospitalization (40% vs 55%; HR 0.68, CI 0.61 to 0.76), and emergency department (ED) visits (35% vs 43%; HR 0.85, CI 0.75 to 0.96). In conclusion, semaglutide was associated with\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1016/j.jaad.2026.11.052",
-  "title": "Hair loss with semaglutide and tirzepatide: Post-hoc safety data analysis from randomized trials.",
-  "link": "https://doi.org/10.1016/j.jaad.2026.11.052",
-  "abstract": "",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1097/fjc.0000000000001903",
-  "title": "Modulating Platelet Reactivity with GLP-1RAs in Diabetes: Mechanistic Insights, Potential Benefits, and Clinical Limitations in Atherothrombotic Prevention.",
-  "link": "https://doi.org/10.1097/fjc.0000000000001903",
-  "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have redefined cardiovascular medicine, reducing major adverse cardiovascular events (MACE) through pleiotropic mechanisms that transcend glycemic and weight control. While their cardioprotective benefits are well-established, their direct impact on platelet activity-a key driver of atherothrombotic risk-remains a compelling frontier. This narrative review first addresses the heightened atherothrombotic risk characteristic of patients with diabetes and the clinical challenges posed by their suboptimal response to standard antiplatelet regimens. Subsequently, it explores experimental evidence on the antiplatelet properties of GLP-1RAs. Mechanistically, GLP-1RAs exert a dual inhibitory action: direct modulation involves the activation of platelet-surface GLP-1 receptors, triggering the PKA signaling cascade and VASP phosphorylation, which in turn suppresses calcium mobilization and aggregation. Indirectly, these agents restore vascular health by enhancing nitric oxide bioavailability, preserving endothelial glycocalyx integrity, and shifting perivascular adipose tissue toward an anti-inflammatory phenotype. Furthermore, GLP-1RAs mitigate the pro-thrombotic milieu by attenuating glycemic variability and systemic inflammatory cascades. However, these compelling experimental findings do not currently translate into clear clinical impact, and a clinical gap persists: while reductions in mortality and stroke risk are firmly establ",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have redefined cardiovascular medicine, reducing major adverse cardiovascular events (MACE) through pleiotropic mechanisms that transcend glycemic and weight control. While their cardioprotective benefits are well-established, their direct impact on platelet\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1177/13872877261506370",
-  "title": "Development of a novel neuronal phenotypic in vitro model of familial Alzheimer's disease using the human neuroblastoma-derived immortalized SH-SY5Y cell line.",
-  "link": "https://doi.org/10.1177/13872877261506370",
-  "abstract": "BackgroundAlzheimer's disease (AD) is the most prevalent neurodegenerative disorder and the leading cause of dementia. Despite its undeniable effect on current society, it remains one of the diseases for which clinical trials have the highest failure rate, and therapeutic interventions remain palliative, thus creating an unmet demand to develop translational models that can accelerate pre-clinical drug discovery.ObjectiveWe aimed to develop a scalable neuronal phenotypic model using differentiated SH-SY5Y cells with mature neuronal phenotypes.MethodsSH-SY5Y were differentiated by exposure to either retinoic acid and phorbol 12-myristate 13-acetate or retinoic acid and GLP-1. Cells differentiated with retinoic acid and GLP-1 were transfected with APP V717I and MAPT P301L mutants. Mutation-induced morphological alterations were measured by immunocytochemistry and neuron activation through intracellular calcium accumulation.ResultsTransfection induced alterations, including reduced cell densities, neurite lengths, and dendritic arborization, together with increase of amyloid-\u03b2 (A\u03b2) aggregation and ROS activity, which are compatible with the neurodegenerative changes observed in AD. A physiological assay based on intracellular calcium imaging revealed hypoexcitability in transfected cultures, suggesting a neurodegenerative process compatible with the later stages of the disease. Treatment of cell cultures with the reference neuroprotective compounds melatonin and resveratrol exer",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "GLP-1"
-  ],
-  "summary_short": "Mutation-induced morphological alterations were measured by immunocytochemistry and neuron activation through intracellular calcium accumulation.ResultsTransfection induced alterations, including reduced cell densities, neurite lengths, and dendritic arborization, together with increase of amyloid-\u03b2 (A\u03b2) aggregation\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1016/j.molimm.2026.11.001",
-  "title": "GNAZ regulates PI3K/AKT/mTOR signalling, reversing sorafenib resistance in hepatocellular carcinoma.",
-  "link": "https://doi.org/10.1016/j.molimm.2026.11.001",
-  "abstract": "Background Sorafenib remains a treatment option for advanced hepatocellular carcinoma, although acquired resistance limits its therapeutic efficacy. Guanine nucleotide-binding protein G (z) alpha subunit (GNAZ), a key mediator of cellular signal transduction, has been implicated in tumour progression and chemoresistance in hepatocellular carcinoma (HCC). Herein, we sought to elucidate the functional role and underlying molecular mechanism of GNAZ in sorafenib resistance in HCC. Methods Bioinformatic analyses revealed the critical role of GNAZ in acquired sorafenib resistance in liver hepatocellular carcinoma. High GNAZ expression is significantly correlated with hepatocellular carcinoma (HCC) development, poor disease prognosis, and increased mutation burden. GNAZ silencing was conducted in sorafenib-resistant Huh7/S cells, followed by analyses of the PI3K/AKT/mTOR pathway and cellular phenotypes, including proliferation, migration, colony formation and apoptosis. In addition, the sensitivity of Huh7/S cells to sorafenib in combination with siGNAZ was evaluated. Results GNAZ knockdown attenuated PI3K/AKT/mTOR signalling, suppressed the proliferation, migration and colony-forming ability of Huh7/S cells, and promoted apoptosis. Combined treatment with GNAZ knockdown and sorafenib can increase the sensitivity of resistant Huh7/S cells to sorafenib. Conclusions Our findings demonstrated that GNAZ plays a crucial role in sorafenib resistance. Thus, targeting GNAZ may serve as a n",
-  "journal": "Rapamycin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [
-   "mtor"
-  ],
-  "topics": [],
-  "summary_short": "High GNAZ expression is significantly correlated with hepatocellular carcinoma (HCC) development, poor disease prognosis, and increased mutation burden.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1016/j.oraloncology.2026.108234",
-  "title": "Targeting the IGF-estrogen receptor signaling nexus in thyroid cancer: From molecular crosstalk to precision therapeutics.",
-  "link": "https://doi.org/10.1016/j.oraloncology.2026.108234",
-  "abstract": "The potential convergence of insulin-like growth factor (IGF) and estrogen receptor alpha (ER\u03b1) signaling represents a compelling molecular hypothesis in thyroid cancer, linking growth factor and hormonal responsiveness to malignant progression and therapeutic resistance. IGF signaling through IGF-1 receptor (IGF-1R) and insulin receptor isoform A (IR-A) activates phosphoinositide 3-kinase (PI3K)-AKT-mechanistic target of rapamycin (mTOR) and mitogen-activated protein kinase (MAPK) pathways, promoting proliferation and survival. An experimentally established IGF-2/IR-A autocrine loop further contributes to tumor-cell proliferation and impaired differentiation. Concurrently, ER\u03b1 fosters proliferative and invasive phenotypes through keratin 19 (KRT19), potassium voltage-gated channel subfamily Q member 3 (KCNQ3)-associated MAPK activation, and epigenetic regulation, whereas estrogen receptor beta (ER\u03b2) may exert context-dependent antiproliferative effects. Although reciprocal ER\u03b1-IGF-1R interactions have been demonstrated in non-thyroid models, direct molecular crosstalk in thyroid cancer remains unconfirmed. These findings provide a rationale for investigating ER\u03b1 antagonism or degradation, selective ER\u03b2 activation, and IGF axis inhibition as potential therapeutic strategies. This article proposes that functional interplay between IGF and ER\u03b1 signaling may create distinct oncogenic dependencies beyond the individual contributions of either pathway. Establishing such cooperatio",
-  "journal": "Rapamycin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [
-   "mtor"
-  ],
-  "topics": [
-   "Rapamycin"
-  ],
-  "summary_short": "The potential convergence of insulin-like growth factor (IGF) and estrogen receptor alpha (ER\u03b1) signaling represents a compelling molecular hypothesis in thyroid cancer, linking growth factor and hormonal responsiveness to malignant progression and therapeutic resistance. IGF signaling through IGF-1 receptor (IGF-1R)\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1007/s12035-026-06342-5",
-  "title": "Chronic Post-Stroke Cognitive Impairment: Microglial Autophagy, PI3K/Akt/mTOR Signaling, and Persistent Neuroinflammation.",
-  "link": "https://doi.org/10.1007/s12035-026-06342-5",
-  "abstract": "Post-stroke cognitive impairment (PSCI) is a major contributor to long-term disability and reduced quality of life after ischemic stroke, yet the mechanisms operating during its chronic phase remain insufficiently integrated. Increasing evidence suggests that, beyond the acute insult, dysfunction of the neurovascular unit and the blood-brain barrier, systemic immune responses, secondary neurodegeneration in distal brain regions, white matter degeneration, and structural disconnection of neural networks may all contribute to the development of PSCI, and the pathological consequences of these processes may persist into the subsequent subacute and chronic phases. Persistent neuroinflammation may contribute to these pathological processes and promote cognitive decline. Dysregulation of microglial autophagy and the class I phosphoinositide 3-kinase (PI3K)/protein kinase B (Akt)/mechanistic target of rapamycin complex 1 (mTORC1) signaling may represent candidate mechanisms underlying this persistent neuroinflammatory process. Under specific pathological conditions, sustained mTORC1 activity may promote inflammatory by inhibiting the initiation of autophagy and restricting the TFEB-dependent lysosomal transcriptional program, thereby impairing the clearance of damaged mitochondria and inflammation-related substrates. This sustained inflammatory state may disrupt neuronal and synaptic function and contribute to white matter injury and neural network dysfunction. We synthesize evidenc",
-  "journal": "Rapamycin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [
-   "autophagy",
-   "mtor"
-  ],
-  "topics": [
-   "Rapamycin"
-  ],
-  "summary_short": "Post-stroke cognitive impairment (PSCI) is a major contributor to long-term disability and reduced quality of life after ischemic stroke, yet the mechanisms operating during its chronic phase remain insufficiently integrated. Increasing evidence suggests that, beyond the acute insult, dysfunction of the neurovascular\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1242/jcs.265033",
-  "title": "Lysosomes as multifunctional hubs of CD8+ T cell regulation.",
-  "link": "https://doi.org/10.1242/jcs.265033",
-  "abstract": "Lysosomes have traditionally been recognized for their role in protein degradation. In CD8+ cytotoxic T lymphocytes (CTLs), most lysosomes represent a type of specialized lysosome-related organelle called a lytic granule (LG). LGs are comprised of lytic components, such as perforin (PRF1) and granzymes, that are required for the elimination of stressed, virus-infected or tumor cells. However, it is now well appreciated that lysosomes in CTLs have functions beyond cytotoxicity and serve as dynamic hubs for integrating signals driving cellular metabolism, mTORC1 signaling and autophagy. Together, this highly versatile organelle coordinates CTL activation, differentiation, memory formation and effector function. This Review examines the mechanisms by which lysosomes regulate LG biogenesis and secretion, autophagy, and metabolic reprogramming in CD8+ T cells. We additionally discuss how disruption of lysosomal pathways in CTLs impairs immune defense and contributes to immunodeficiency.",
-  "journal": "Rapamycin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [
-   "autophagy"
-  ],
-  "topics": [],
-  "summary_short": "Lysosomes have traditionally been recognized for their role in protein degradation. In CD8+ cytotoxic T lymphocytes (CTLs), most lysosomes represent a type of specialized lysosome-related organelle called a lytic granule (LG).",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1038/s41392-026-03080-x",
-  "title": "Tissue repair and regeneration: molecular mechanisms and therapeutic interventions.",
-  "link": "https://doi.org/10.1038/s41392-026-03080-x",
-  "abstract": "Tissue injury is a pervasive feature of human disease, yet adult mammals exhibit limited regenerative capacity. A central determinant of regenerative outcomes is the inflammatory response, which orchestrates tissue repair through mechanisms that are evolutionarily conserved from Drosophila to mammals. Following injury, inflammation drives debris clearance, promotes the release of cytokines and growth factors, and contributes to the restoration of functional cells. However, dysregulated or unresolved inflammation can impair healing, drive scar formation, and ultimately result in organ dysfunction or failure. Here, we focus on recent advances in the spatiotemporal regulation of inflammation during tissue repair that have reshaped our understanding of its underlying mechanisms. We synthesize findings on the dynamic progression of repair from inflammatory initiation to active resolution and stem cell activation, highlighting features of immune cell plasticity and heterogeneity within injury-specific microenvironments, as well as the existence of pivotal macrophage-fibroblast interactions. Furthermore, we delineate the pleiotropic and context-dependent roles of key cytokines and signaling pathways in coordinating these processes. Finally, we discuss current and emerging therapeutic strategies, emphasizing the paradigm shift from broad immunosuppression toward precise modulation of inflammatory networks to promote regeneration and prevent fibrosis. Future progress hinges on integra",
-  "journal": "Rapamycin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "Tissue injury is a pervasive feature of human disease, yet adult mammals exhibit limited regenerative capacity. A central determinant of regenerative outcomes is the inflammatory response, which orchestrates tissue repair through mechanisms that are evolutionarily conserved from Drosophila to mammals.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1111/dom.71564",
-  "title": "Metformin in Advanced Chronic Kidney Disease: A Systematic Review and Meta-Analysis.",
-  "link": "https://doi.org/10.1111/dom.71564",
-  "abstract": "Aims To evaluate associations of metformin exposure with all-cause mortality, major adverse cardiovascular events (MACE), end-stage kidney disease (ESKD) and lactic or metabolic acidosis in adults with Type 2 diabetes and advanced CKD (estimated glomerular filtration rate (eGFR) 2 ) not receiving chronic dialysis. Materials and methods We searched PubMed, Scopus, Web of Science and Cochrane from inception through 5 September 2026 for observational cohort studies evaluating metformin exposure in this population. Comparator strategies included non-use, discontinuation and alternative glucose-lowering therapy. Data were synthesized using Bayesian random-effects models with empirical heterogeneity priors (primary) and frequentist random-effects models. Certainty of the evidence was assessed using the GRADE framework. Results Ten cohort studies were included. For ESKD, the pooled hazard ratio (HR) from the Bayesian analysis was 0.64 (95% CrI: 0.45-0.92; 99% posterior probability of HR Conclusions For ESKD, the pooled Bayesian estimate was below the null, whereas estimates for all-cause mortality and MACE remained uncertain, and an increased risk of acidosis could not be excluded. Given the very low certainty of the evidence and the heterogeneity of treatment strategies, these findings should be interpreted with considerable caution. Further randomized or well-designed observational evidence using clearly defined treatment strategies is needed.",
-  "journal": "Metformin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "Metformin"
-  ],
-  "summary_short": "For ESKD, the pooled hazard ratio (HR) from the Bayesian analysis was 0.64 (95% CrI: 0.45-0.92; 99% posterior probability of HR Conclusions For ESKD, the pooled Bayesian estimate was below the null, whereas estimates for all-cause mortality and MACE remained uncertain, and an increased risk of acidosis could not be\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1055/a-3008-4657",
-  "title": "Metabolic Profiles and insulin therapy requirements among pregnant women with Gestational Diabetes mellitus and Type 2 Diabetes across self-identified Race/ethnic groups in Brooklyn NY, USA.",
-  "link": "https://doi.org/10.1055/a-3008-4657",
-  "abstract": "Objective Gestational diabetes mellitus (GDM) and type 2 diabetes (T2 DM) presents varying metabolic patterns across populations, yet the extent to which these differences appear at diagnosis remains unclear. This study examines whether baseline metabolic profiles differ among pregnant women from diverse racial and ethnic backgrounds. Our objective was to determine whether these metabolic differences may influence diabetes management during pregnancy. Study design We conducted a two\u2011year retrospective study of 200 insulin\u2011na\u00efve women at NYU Langone hospital at Brooklyn, NY, diagnosed with GDM and or T2DM in the third trimester. The diagnostic criteria were standard two\u2011step testing , 50\u2011g glucose challenge (1Hr. GCT, cut off 135mg./DL) followed by a 100\u2011g Oral glucose tolerance test (OGTT). Baseline fasting labs included glucose, C\u2011peptide, and lipid profiles, with insulin sensitivity estimated using IS\u2011HOMA (C\u2011peptide). Management followed standardized diet, exercise, Metformin when appropriate, and weight\u2011based basal-bolus insulin titrated to fasting glucose levels 85-90 mg/dL and 2\u2011hour postprandial 115-120 mg/dL. Results Significant race/ethnicity\u2011specific metabolic phenotype differences emerged. Hispanic-Latina women and American born Black women had higher BMI, higher fasting C\u2011peptide, and lower insulin sensitivity, whereas Asian (Southeast and East Indian) and Caribbean/Haitian Black women showed lower C\u2011peptide but higher insulin sensitivity. Lipid patterns also vari",
-  "journal": "Metformin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [
-   "exercise"
-  ],
-  "topics": [
-   "Metformin"
-  ],
-  "summary_short": "Objective Gestational diabetes mellitus (GDM) and type 2 diabetes (T2 DM) presents varying metabolic patterns across populations, yet the extent to which these differences appear at diagnosis remains unclear. This study examines whether baseline metabolic profiles differ among pregnant women from diverse racial and\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1097/mph.0000000000003317",
-  "title": "Acute Hemolysis Due to Metformin in a Young Adult Treated for T-Cell Acute Lymphoblastic Leukemia.",
-  "link": "https://doi.org/10.1097/mph.0000000000003317",
-  "abstract": "Background Patients with acute lymphoblastic leukemia (ALL) are at risk for hyperglycemia due to asparaginase, glucocorticoids, and possible underlying predisposition for glucose intolerance. The use of metformin in pediatric oncology patients is not yet widespread; however, it may be used to control blood glucose levels. Observation We report a young adult with T-cell ALL in maintenance chemotherapy who developed hemolysis 2 weeks after starting metformin, with resolution upon cessation of metformin. Conclusions We present this case to increase awareness of metformin-related hemolysis, review the literature, and discuss possible mechanisms for this adverse event.",
-  "journal": "Metformin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "Metformin"
-  ],
-  "summary_short": "Observation We report a young adult with T-cell ALL in maintenance chemotherapy who developed hemolysis 2 weeks after starting metformin, with resolution upon cessation of metformin.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1001/jamaoto.2026.3648",
-  "title": "Glucagon-Like Peptide-1 Receptor Agonists and Survival in Head and Neck Squamous Cell Carcinoma.",
-  "link": "https://doi.org/10.1001/jamaoto.2026.3648",
-  "abstract": "Importance Metformin has known metabolic effects and associated survival benefits in head and neck cancer. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) also modulate systemic metabolism through regulating blood glucose levels and lipid metabolism. Objective To investigate whether GLP-1RAs are associated with survival outcomes in patients with head and neck cancers. Design, setting, and participants This retrospective cohort study was conducted using clinical data from January 1, 1990, through December 1, 2025, from the TriNetX Global Collaborative Network. Adults with histologically confirmed head and neck squamous cell carcinomas (HNSCC) were included. Data were analyzed in January 2026. Main outcomes and measures The primary outcome was overall survival for all HNSCC and stratified by site. The secondary outcome was overall survival among patients concurrently using GLP-1RAs and metformin. Adjusted hazard ratios (aHRs) with 95% CIs were estimated. Results There were 4532 patients (mean [SD] age, 63.4 [10.9] years; 1638 female individuals [36.1%] and 2891 male individuals [63.8%]) included in the cohort. Across all subsites, GLP-1RA users had significantly improved overall survival compared with controls at 1-year (aHR, 0.42; 95% CI, 0.36-0.49), 3-year (aHR, 0.48; 95% CI, 0.43-0.54), and 5-year intervals (aHR, 0.51; 95% CI, 0.46-0.57). By anatomic subsite, GLP-1RA use remained consistently associated with a lower hazard of mortality at 5-year intervals (oral cavity: ",
-  "journal": "Metformin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "Metformin"
-  ],
-  "summary_short": "Across all subsites, GLP-1RA users had significantly improved overall survival compared with controls at 1-year (aHR, 0.42; 95% CI, 0.36-0.49), 3-year (aHR, 0.48; 95% CI, 0.43-0.54), and 5-year intervals (aHR, 0.51; 95% CI, 0.46-0.57). By anatomic subsite, GLP-1RA use remained consistently associated with a lower\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1007/s12325-026-03835-6",
-  "title": "Beyond Bicarbonate: Renal Replacement Therapy in Refractory Diabetic Ketoacidosis: A Narrative Review.",
-  "link": "https://doi.org/10.1007/s12325-026-03835-6",
-  "abstract": "Introduction A minority of patients with diabetic ketoacidosis (DKA) remain profoundly acidaemic, despite receiving standard treatment as per established guidelines. This review examines the reported use of renal replacement therapy in that setting, proposes a working definition of refractory DKA, and sets out the differential diagnosis of persistent acidaemia that should be excluded before escalation is considered. Methods Targeted, purposive, non-systematic search of PubMed with citation tracking of retrieved articles. No protocol was registered, and no formal screening or risk-of-bias assessment was undertaken. The retrieval was not intended to be exhaustive, and completeness should not be inferred. Results To date, no clinical trial of bicarbonate has included patients with a pH below 6.85, although the current consensus permits its consideration below pH 7.0. Expert guidance on extra-renal purification exists for metformin-associated lactic acidosis, toxic alcohol poisoning, and salicylate toxicity; however, none addresses DKA. Reported cases document escalation for persistent acidaemia, yet circuit composition, anticoagulation, and insulin handling are infrequently recorded, and insulin clearance across a haemofilter has not been measured in this setting. Continuous therapy using glucose-free solutions has itself precipitated euglycaemic ketosis, including in people without diabetes. Ketoacidosis associated with sodium-glucose co-transporter 2 inhibition often presents ",
-  "journal": "Metformin (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "Metformin"
-  ],
-  "summary_short": "Ketoacidosis associated with sodium-glucose co-transporter 2 inhibition often presents",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1080/15502783.2026.2763838",
-  "title": "Train hard, recover smart: the supplement framework to enhance exercise recovery in recreational and elite-level athletes.",
-  "link": "https://doi.org/10.1080/15502783.2026.2763838",
-  "abstract": "Background : Exercise-induced inflammation and muscle damage are frequent consequences of structured physical activity that facilitate muscle growth and subsequent training adaptations. Performance improvements are strongly dependent upon athletes' capacity to successfully recover from previous sessions or challenging efforts, particularly when opportunities to rest and recover are limited. Nutritional practices centered around acute or chronic ingestion of certain foods or dietary bioactive compounds have been shown to accelerate neurophysiological and subjective recovery outcomes and may be worthy of consideration in both recreationally active and professional athletic populations. Methods: This review provides a comprehensive summary of dietary strategies to promote exercise recovery that are supported by robust scientific evidence, including systematic reviews, randomized clinical trials, and observational studies up to August 2025. Results: Despite substantial variability in evidence quality, identified nutrients, dietary supplements, and bioactive compounds of greatest interest for athletes are omega-3 fatty acids and creatine monohydrate, while additional compounds showing promising results in improving subjective or objective recovery metrics such as inflammatory biomarkers, muscle soreness, and fatigue include magnesium, taurine, curcumin, L-Carnitine, Ashwagandha, anthocyanins, L-Citrulline, gingerol, tart cherry, beetroot, and pomegranate juice. Nutrients or compou",
-  "journal": "Taurine (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [
-   "exercise",
-   "nutrition"
-  ],
-  "topics": [
-   "Taurine"
-  ],
-  "summary_short": "Background : Exercise-induced inflammation and muscle damage are frequent consequences of structured physical activity that facilitate muscle growth and subsequent training adaptations. Performance improvements are strongly dependent upon athletes' capacity to successfully recover from previous sessions or challenging\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1007/s11250-026-05506-8",
-  "title": "Drinking behavior of feedlot Gyr heifers fed wheat silage as a replacement for corn silage.",
-  "link": "https://doi.org/10.1007/s11250-026-05506-8",
-  "abstract": "Water is essential for maintenance, thermoregulation, digestion, and productive performance in cattle, and voluntary intake is strongly influenced by dry matter intake (DMI) and the diet's physical and chemical characteristics. This study evaluated drinking water intake (DWI), drinking visit frequency (DVF), water intake per visit (WI/V), and active time at the water trough (TWT) in feedlot Gyr heifers fed increasing proportions of wheat silage as a replacement for corn silage. Thirty-two heifers (357 \u00b1 28.2 kg) were assigned to four treatments (n = 8/treatment, one pen/treatment) and received isonitrogenous diets (forage:\u200bconcentrate \u2248 80:20) with 0, 33, 67, and 100% replacement of corn silage with wheat silage. Daily data were analyzed using generalized linear mixed models (PROC GLIMMIX), with treatment, day, and temperature-humidity index (THI) as fixed effects and animal as a random effect. Mean THI was 75.0 (68.6 to 79.8). DMI did not differ among treatments (8.60 to 8.94 kg/d; P = 0.7178), and DWI, DVF, WI/V, TWT, and total water intake did not differ (P > 0.05). Under the conditions of this feedlot trial, replacing corn silage with wheat silage did not produce detectable changes in water intake or the heifers' drinking behavior; the results should not be extrapolated to lactating cows, grazing cattle, or severe heat-stress conditions.",
-  "journal": "Taurine (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "Water is essential for maintenance, thermoregulation, digestion, and productive performance in cattle, and voluntary intake is strongly influenced by dry matter intake (DMI) and the diet's physical and chemical characteristics. This study evaluated drinking water intake (DWI), drinking visit frequency (DVF), water\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1186/s12986-026-01182-5",
-  "title": "FTO gene in MASLD Pathogenesis: mechanisms and clinical implications - a narrative review.",
-  "link": "https://doi.org/10.1186/s12986-026-01182-5",
-  "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) has emerged as the most common chronic liver disease worldwide, affecting over 38% of the global population, and imposing profound clinical and economic burdens. While its pathogenesis is multifactorial, genetic predisposition plays a critical role, with recent genome-wide association studies identifying variants in multiple genes, including fat mass and obesity-associated (FTO). FTO functions as a central regulator of energy homeostasis, adipogenesis, and lipid metabolism through its ability to modulate messenger RNA (mRNA) methylation. The role of FTO in obesity, body fat composition, type 2 diabetes and insulin resistance has been extensively discussed. Nevertheless, the role of FTO in MASLD has been scarcely demonstrated. Increasing evidence links FTO to hepatic lipid accumulation, impaired fatty acid oxidation, mitochondrial dysfunction, and inflammatory signalling, positioning it as a key player in MASLD pathogenesis. Moreover, allele-specific associations underscore its contribution to inter-individual differences in disease susceptibility and progression. In this review, we summarize current mechanistic evidence on the direct and indirect roles of FTO in MASLD, highlight its impact on metabolic and inflammatory pathways, and discuss the therapeutic potential of targeting FTO in the context of precision medicine, especially with the limited treatment options.",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [
-   "mitochondrial dysfunction"
-  ],
-  "topics": [],
-  "summary_short": "Metabolic dysfunction-associated steatotic liver disease (MASLD) has emerged as the most common chronic liver disease worldwide, affecting over 38% of the global population, and imposing profound clinical and economic burdens. While its pathogenesis is multifactorial, genetic predisposition plays a critical role, with\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.3390/ani16223681",
-  "title": "The Causes of Homelessness Among Dogs and the Role of Shelters in Its Prevention.",
-  "link": "https://doi.org/10.3390/ani16223681",
-  "abstract": "Animal shelters play a vital role in providing care for homeless animals and preparing them for adoption; however, homelessness still poses a significant challenge to the animal welfare system. In the case of dogs, the success of the adoption process is strongly influenced by their behaviour, which is shaped by both their previous life experiences and the shelter environment. The aim of this study was to evaluate the significance of behavioural problems in shelter dogs for the adoption process, with particular emphasis on the relationship between welfare, animal behaviour, the preferences of prospective adopters and the behaviour of the dogs following adoption. This review proposes that the effectiveness of adoption should be considered not only quantitatively, i.e., in terms of the number of animals leaving the shelter, but also qualitatively, i.e., regarding the suitability of the dogs to their new environment and the longevity of the relationship with their owners. The adoption process can be supported by improving welfare, reducing stress and enriching the environment in the shelter, and by conducting individual behavioural assessments, preparing the dog for life in a home environment and presenting the animal appropriately; it is also recommended to educate prospective owners and offer support where necessary. By following a comprehensive approach that promotes dog welfare and employs a responsible adoption process, it is more likely that the animal will find a permanent",
-  "journal": "Longevity (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [
-   "longevity"
-  ],
-  "topics": [],
-  "summary_short": "Animal shelters play a vital role in providing care for homeless animals and preparing them for adoption; however, homelessness still poses a significant challenge to the animal welfare system. In the case of dogs, the success of the adoption process is strongly influenced by their behaviour, which is shaped by both\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.3390/diseases14110434",
-  "title": "The Diagnostic Accuracy of the Metabolic Score for Visceral Fat in Patients with T2DM and Steatotic Liver Disease Associated with Metabolic Dysfunction, Diagnosed by Transient Elastography.",
-  "link": "https://doi.org/10.3390/diseases14110434",
-  "abstract": "Background/objectives Excessive accumulation of visceral adipose tissue (VAT) is a significant contributor to the pathogenesis of metabolic dysfunction-associated steatotic liver disease (MASLD). We aimed to evaluate the diagnostic accuracy of the Metabolic Score for Visceral Fat (METS-VF) in identifying patients with MASLD compared with vibration-controlled transient elastography (FibroScan \u00ae ) in the Slovak (Caucasian) population. Methods A cross-sectional study of 156 obese/overweight patients, 61 males and 95 females, aged 33-78 years, treated for T2DM or prediabetes and MASLD, on oral antidiabetic medication, was conducted. We performed sex-stratified correlation analyses between METS-VF, the Controlled Attenuation Parameter (CAP) determined by FibroScan \u00ae , the Hepatic Steatosis Index (HSI), fat mass and lean mass parameters derived from dual-energy X-ray absorptiometry (DXA), and potential covariates. We fitted multiple linear regression models with CAP as the dependent variable and METS-VF as the independent variable, adjusted for age, sex, and the HOMA index. We then plotted ROC curves using HSI = 36 or a CAP value of 248 dB/m as a steatosis classifier. We then used logistic regression to evaluate the diagnostic value of METS-VF with a CAP of 248 dB/m. Results We found a significant positive correlation between METS-VF and CAP ( r = 0.26, p \u2264 0.001), HSI ( r = 0.57, p \u2264 0.001), android fat% ( r = 0.29, p \u2264 0.001), and total body fat% ( r = 0.18, p \u2264 0.002). The AUC f",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "Results We found a significant positive correlation between METS-VF and CAP ( r = 0.26, p \u2264 0.001), HSI ( r = 0.57, p \u2264 0.001), android fat% ( r = 0.29, p \u2264 0.001), and total body fat% ( r = 0.18, p \u2264 0.002).",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.3390/jfmk11040484",
-  "title": "Performance-Centred Weight Management: A Harm-Reduction Framework for Emerging Body Mass Interventions in Sport.",
-  "link": "https://doi.org/10.3390/jfmk11040484",
-  "abstract": "Highly effective incretin-based therapies are increasingly extending beyond obesity treatment into fitness, body image, and sporting environments, raising new questions regarding athletes' health, informed decision-making, performance enhancement, and off-label use. Direct extrapolation of evidence from obesity medicine to athletes is inappropriate because body mass management in sport must preserve training adaptation and physiological readiness for competition. This Perspective proposes Performance-Centred Weight Management (PCWM), a health-oriented conceptual framework intended to guide the evaluation of traditional weight-cutting practices, nutritional interventions, structured exercise programmes, incretin-based therapies, and future body mass interventions in sport. PCWM integrates five interdependent domains: muscle quality and function, energy availability, recovery and training adaptation, sport-specific performance capacity, and long-term athlete health and wellbeing, within a model of longitudinal monitoring aligned with training periodisation. PCWM distinguishes evaluation from endorsement. Rather than considering body mass reduction as the primary endpoint, the framework identifies physiological readiness for competition, athlete health, and informed decision-making as the principal outcomes of successful body mass management. By integrating performance-oriented assessment with medical supervision and harm-minimisation principles, PCWM offers a conceptual basis f",
-  "journal": "GLP-1 (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [
-   "exercise"
-  ],
-  "topics": [],
-  "summary_short": "Highly effective incretin-based therapies are increasingly extending beyond obesity treatment into fitness, body image, and sporting environments, raising new questions regarding athletes' health, informed decision-making, performance enhancement, and off-label use. Direct extrapolation of evidence from obesity\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.3390/ani16223669",
-  "title": "Mitigating Hepatic Steatosis and Oxidative Stress: The Role of Dietary Taurine in Juvenile Black Seabream Fed a High-Fat Diet.",
-  "link": "https://doi.org/10.3390/ani16223669",
-  "abstract": "High-fat diets are widely used in aquaculture but can induce hepatic steatosis and oxidative injury. This study evaluated whether dietary taurine (Tau) alleviates high-fat diet (HFD)-induced metabolic and hepatic stress in juvenile black seabream (Acanthopagrus schlegelii). Fish were fed for eight weeks with a control diet (11.17% crude lipid), an HFD (17.72% crude lipid), or the HFD supplemented with 2.5, 5, or 10 g/kg Tau. Tau improved weight gain and specific growth rate, reduced intraperitoneal fat, and increased hepatic and muscle Tau concentrations. Compared with the HFD, Tau significantly reduced serum ALT activity, while AST activity showed only a numerical decrease without a significant difference from the HFD group. Tau also modulated serum lipid-related parameters and promoted postprandial normalization of triglyceride and total cholesterol levels. Histological, Oil Red O, and ultrastructural analyses showed reduced hepatic lipid deposition and alleviated ultrastructural alterations. Tau suppressed the expression of lipogenic genes (srebp-1c and fas) and increased the expression of sirt1, lpl, and atgl, whereas ppar\u03b1 showed only a numerical increase without a significant overall treatment effect. Tau also decreased hepatic ROS and MDA levels, improved antioxidant status, and enhanced Nrf2/Keap1-associated antioxidant regulation, as reflected by increased Nrf2 and decreased Keap1 protein abundance. Tau also moderated inflammatory and apoptosis-related molecular resp",
-  "journal": "Taurine (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [
-   "Taurine"
-  ],
-  "summary_short": "Tau suppressed the expression of lipogenic genes (srebp-1c and fas) and increased the expression of sirt1, lpl, and atgl, whereas ppar\u03b1 showed only a numerical increase without a significant overall treatment effect. Tau also decreased hepatic ROS and MDA levels, improved antioxidant status, and enhanced\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.3390/pathophysiology33040090",
-  "title": "Micro/Nanoplastics and Plastic-Associated Chemicals as Candidate Developmental Neuroimmune Disruptors in Autism.",
-  "link": "https://doi.org/10.3390/pathophysiology33040090",
-  "abstract": "Autism spectrum disorder (ASD) arises from genetic susceptibility acting together with malleable environmental exposures, with special sensitivity during fetal and early postnatal critical periods. This narrative review (original literature search performed on 1 September 2026, with a follow-up search on 31 October 2026) covers three linked exposure groups: micro/nanoplastics (MNPs), the endocrine-disrupting chemicals (EDCs) that accompany plastics, and tire wear particles together with their transformation product 6PPD-quinone. We pay particular attention to immune and gut-microbial routes toward neuroinflammation. MNPs have been detected in human placenta, the brain, and breast milk, although reported concentrations differ widely between methods and studies, and one small human study links placental microplastic burden to shifted cord blood hormone levels, whereas placental DNA damage has been reported only in experimental models. In rodents and brain organoids, early-life exposure is associated with disturbed cortical layer formation and microglial synaptic pruning and in mice with autism-like behaviors, but that model is not equivalent to clinical ASD. Associations of phthalates, bisphenol A, and organophosphate esters with autistic traits differ by sex; for bisphenol A, human cohort data and mouse experiments together outline a route from reduced aromatase activity to amygdala dysfunction. In pregnant mice, 6PPD-quinone crosses the placenta and engages nuclear receptor s",
-  "journal": "Taurine (Europe PMC)",
-  "publisher": "Europe PMC",
-  "date": "2026-11-19T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "In rodents and brain organoids, early-life exposure is associated with disturbed cortical layer formation and microglial synaptic pruning and in mice with autism-like behaviors, but that model is not equivalent to clinical ASD. Associations of phthalates, bisphenol A, and organophosphate esters with autistic traits\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1111/acel.70811",
-  "title": "Cross\u2010Species Single\u2010Cell, Single\u2010Nucleus, and Spatial Transcriptomics Reveal Remodeling Features of the Immune Microenvironment and Tissue Architecture Associated With Prostate Aging and Benign Prostatic Hyperplasia",
-  "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70811?af=R",
-  "abstract": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "journal": "Aging Cell",
-  "publisher": "Wiley",
-  "date": "2026-11-18T09:05:30+00:00",
-  "tags": [
-   "aging"
-  ],
-  "topics": [],
-  "summary_short": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1111/acel.70838",
-  "title": "DNA Damage\u2010Induced Senescence Reshapes Transcriptomic and Functional Landscape of Human Neural Progenitor Cells",
-  "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70838?af=R",
-  "abstract": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "journal": "Aging Cell",
-  "publisher": "Wiley",
-  "date": "2026-11-18T08:00:00+00:00",
-  "tags": [
-   "aging",
-   "senescence"
-  ],
-  "topics": [],
-  "summary_short": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1111/acel.70850",
-  "title": "Matrine\u2010Loaded Macrophage Membrane\u2010Functionalized Liposomes Suppress Macrophage Dll4\u2010Dependent Vascular Smooth Muscle Cell Senescence and Improve Plaque Stability\u2010Associated Features",
-  "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70850?af=R",
-  "abstract": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "journal": "Aging Cell",
-  "publisher": "Wiley",
-  "date": "2026-11-18T07:46:14+00:00",
-  "tags": [
-   "aging",
-   "senescence"
-  ],
-  "topics": [],
-  "summary_short": "Aging Cell, Volume 25, Issue 11, November 2026.",
-  "summary_source": "extractive"
- },
- {
-  "id": "https://www.nature.com/articles/s43587-026-01299-5",
-  "title": "Author Correction: ZDHHC11-mediated palmitoylation alleviates chondrocyte senescence and serves as a therapeutic target for osteoarthritis",
-  "link": "https://www.nature.com/articles/s43587-026-01299-5",
-  "abstract": "Nature Aging, Published online: 18 November 2026; doi:10.1038/s43587-026-01299-5 Author Correction: ZDHHC11-mediated palmitoylation alleviates chondrocyte senescence and serves as a therapeutic target for osteoarthritis",
-  "journal": "Nature Aging",
-  "publisher": "Nature Portfolio",
-  "date": "2026-11-18T00:00:00+00:00",
-  "tags": [
-   "aging",
-   "senescence"
-  ],
-  "topics": [],
-  "summary_short": "",
-  "summary_source": "extractive"
- },
- {
-  "id": "https://www.nature.com/articles/s43587-026-01259-z",
-  "title": "Comparing plasma p-tau217 and plasma p-tau217/A\u03b2 42 with CSF biomarkers for assessing Alzheimer\u2019s disease pathology",
-  "link": "https://www.nature.com/articles/s43587-026-01259-z",
-  "abstract": "Nature Aging, Published online: 18 November 2026; doi:10.1038/s43587-026-01259-z Blood tests for Alzheimer\u2019s disease, including regulatory authorized p-tau217 and p-tau217/AB42, are accessible and cost-effective diagnostic tools. This study shows that they perform similarly to authorized cerebrospinal fluid tests in detecting Alzheimer\u2019s disease pathology in patients.",
-  "journal": "Nature Aging",
-  "publisher": "Nature Portfolio",
-  "date": "2026-11-18T00:00:00+00:00",
-  "tags": [
-   "aging"
-  ],
-  "topics": [],
-  "summary_short": "Nature Aging, Published online: 18 November 2026; doi:10.1038/s43587-026-01259-z Blood tests for Alzheimer\u2019s disease, including regulatory authorized p-tau217 and p-tau217/AB42, are accessible and cost-effective diagnostic tools. This study shows that they perform similarly to authorized cerebrospinal fluid tests in\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1007/s11357-026-02631-y",
-  "title": "An aging risk-factor scale: biomarkers of renal disease and anemia are primary predictors of three-year survival in common marmosets ( Callithrix jacchus )",
-  "link": "https://link.springer.com/article/10.1007/s11357-026-02631-y",
-  "abstract": "Valid animal models are needed to evaluate how age-related changes in kidney function influence healthspan. Aging marmosets frequently develop renal insufficiency with anemia and exhibit reductions in body mass and metabolic rate. However, it remains unclear which age-related changes predict survival and which thresholds indicate increased mortality risk. We prospectively evaluated age, body composition, resting energy expenditure, hematology, and blood chemistry as predictors of 3-year survival in female and male marmosets ( n = 66), 2\u201316 years of age. Objectives were to identify prognostic markers, define high-risk thresholds, and to develop and test a composite risk-factor scale for mortality screening in captivity. A 10-variable model showed the best predictive performance in multivariable Cox proportional hazards modeling, and was retained for further analysis (concordance = 0.881, p &lt; 0.001). ROC curves using Youden\u2019s Index and AUC identified high-risk thresholds for predictors in the multivariable model, and threshold-defined categories were evaluated by Kaplan\u2013Meier survival analysis. The 10 binary risk-factors were combined into a composite scale scored from 0 to 10 and tested with Cox regression. The scale explained approximately 42% of variance in survival and each additional risk factor increased mortality risk 1.75-fold (95% CI: 1.43\u20132.14, p &lt; 0.001). Marmosets with \u2265 7 risk factors exhibited a 19-month reduction in survival, and this high-risk threshold pr",
-  "journal": "GeroScience",
-  "publisher": "Springer",
-  "date": "2026-11-18T00:00:00+00:00",
-  "tags": [
-   "aging",
-   "healthspan"
-  ],
-  "topics": [],
-  "summary_short": "However, it remains unclear which age-related changes predict survival and which thresholds indicate increased mortality risk. The scale explained approximately 42% of variance in survival and each additional risk factor increased mortality risk 1.75-fold (95% CI: 1.43\u20132.14, p &lt; 0.001).",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1007/s11357-026-02663-4",
-  "title": "Longitudinal AI-based home-cage monitoring of locomotor aging in C57BL/6J mice: An exploratory pilot study",
-  "link": "https://link.springer.com/article/10.1007/s11357-026-02663-4",
-  "abstract": "Aging is a multidimensional process characterized by progressive functional decline across physiological, cognitive, and behavioural domains. While home-cage monitoring systems (HCMS) offer unprecedented opportunities for continuous and non-invasive behavioural phenotyping, most existing applications rely on cross-sectional designs, limiting the ability to resolve longitudinal aging trajectories. Here, we present an exploratory pilot study based on continuous behavioural data acquired using the Digital Online Monitoring Equipment (DOME) AI-powered HCMS to characterize longitudinal aging trajectories in two partially overlapping cohorts of C57BL/6J mice. Twenty mice housed in four cages (four independent experimental units) were monitored for nine months each, together spanning 13 to 27 months of age. Cross-cohort concordance was explored within an overlapping window (19\u201321 months) to identify candidate behavioural features and assess potential cohort-specific bias. Among twenty extracted parameters, four locomotor kinematic measures (average movement acceleration, average overall speed, average speed when awake, and maximum movement speed) showed the highest cross-cohort concordance in both sexes in this exploratory screen and a consistent age-related decline. Because females exhibited consistently higher locomotor performance than males, sex-specific normalization was applied to account for sexual dimorphism while preserving longitudinal age-related patterns. These measures ",
-  "journal": "GeroScience",
-  "publisher": "Springer",
-  "date": "2026-11-18T00:00:00+00:00",
-  "tags": [
-   "aging"
-  ],
-  "topics": [],
-  "summary_short": "Aging is a multidimensional process characterized by progressive functional decline across physiological, cognitive, and behavioural domains. While home-cage monitoring systems (HCMS) offer unprecedented opportunities for continuous and non-invasive behavioural phenotyping, most existing applications rely on\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1007/s11357-026-02667-0",
-  "title": "Latent cortical network adaptability predicts dual-task\u2013unmasked postural instability in Parkinson\u2019s disease: a proof-of-concept study",
-  "link": "https://link.springer.com/article/10.1007/s11357-026-02667-0",
-  "abstract": "Dual-task postural deterioration often reveals latent balance vulnerability in Parkinson\u2019s disease (PD), even when single-task standing appears preserved. We examined whether beta-band cortical network solution-space organization during single-task standing predicts subsequent dual-task postural deterioration in PD. Forty-eight participants, including 16 healthy controls, 16 individuals with early-stage PD, and 16 individuals with mid-stage PD, completed single-task quiet standing and dual-task standing conditions while electroencephalography and center-of-pressure signals were recorded. Beta-band functional connectivity was estimated using the phase lag index, and minimum spanning tree (MST) analysis was extended using an iterative second-best MST framework to characterize alternative backbone configurations based on cumulative MST cost divergence from the optimal MST (\u0394 C total ( k )) and algebraic connectivity ( \u03bb 2 ( k )). Dual-task-induced increases in postural sway became greater with advancing PD stage ( p = 0.008), whereas conventional MST metrics showed no significant disease-stage trends. In contrast, dual-task standing induced stage-dependent solution-space alterations, with early-stage PD showing reduced \u0394 C total ( k ) and increased \u03bb 2 ( k ), suggesting a more constrained alternative backbone configuration. Moreover, across participants, greater \u0394 C total ( k ) measured during single-task standing independently predicted larger dual-task-related increases in pos",
-  "journal": "GeroScience",
-  "publisher": "Springer",
-  "date": "2026-11-18T00:00:00+00:00",
-  "tags": [],
-  "topics": [],
-  "summary_short": "Beta-band functional connectivity was estimated using the phase lag index, and minimum spanning tree (MST) analysis was extended using an iterative second-best MST framework to characterize alternative backbone configurations based on cumulative MST cost divergence from the optimal MST (\u0394 C total ( k )) and algebraic\u2026",
-  "summary_source": "extractive"
- },
- {
-  "id": "10.1007/s11357-026-02665-2",
-  "title": "Cardiometabolic multimorbidity and functional disability in middle-aged and older adults: a harmonized multicohort study",
-  "link": "https://link.springer.com/article/10.1007/s11357-026-02665-2",
-  "abstract": "Cardiometabolic multimorbidity (CMM) is highly prevalent in aging populations, yet its association and underlying mechanisms with functional disability (FD) remain insufficiently understood. This study aimed to investigate CMM-FD relationship, quantify the influencing mechanisms, and explore heterogeneity across different CMM patterns and population subgroups. A multicohort study was conducted by pooling harmonized longitudinal data from three international aging cohorts. CMM was defined as the co-occurrence of at least two cardiometabolic diseases, including hypertension, diabetes, heart diseases, and stroke. FD was measured through difficulty performing basic or instrumental activities of daily living. Logistic regression models were used to estimate associations and heterogeneities, and Kohler-Holm-Breen decomposition was used to quantify mediating contributions. CMM prevalence was 22.53%, and FD prevalence was 23.01%. CMM was strongly associated with higher odds of FD (OR = 2.940; p &lt; 0.001), with consistent findings across all countries and FD subtypes. Respiratory, neuropsychiatric, and sensory conditions jointly explained 20.44% of the association, with psychological problems contributing the largest share. CMM patterns involving stroke generally showed high odds of FD, while the four-disease combination had the largest overall point estimate. Middle-aged, male, married, childless, non-retired, and smoking older adults exhibited a stronger CMM-associated elevation i",
-  "journal": "GeroScience",
-  "publisher": "Springer",
-  "date": "2026-11-18T00:00:00+00:00",
-  "tags": [
-   "aging"
-  ],
-  "topics": [],
-  "summary_short": "CMM was strongly associated with higher odds of FD (OR = 2.940; p &lt; 0.001), with consistent findings across all countries and FD subtypes.",
   "summary_source": "extractive"
  }
 ]
